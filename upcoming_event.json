@@ -26,7 +26,7 @@
       },
       "win_odds": "70.9%",
       "lose_odds": "37.2%",
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Sean O'Malley",
@@ -49,7 +49,7 @@
       },
       "win_odds": "67.1%",
       "lose_odds": "40.0%",
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Waldo Cortes Acosta",
@@ -72,7 +72,7 @@
       },
       "win_odds": "77.5%",
       "lose_odds": "30.5%",
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Natalia Silva",
@@ -95,7 +95,7 @@
       },
       "win_odds": "82.0%",
       "lose_odds": "26.7%",
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Jean Silva",
@@ -118,7 +118,7 @@
       },
       "win_odds": "74.1%",
       "lose_odds": "33.4%",
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Umar Nurmagomedov",
@@ -141,7 +141,7 @@
       },
       "win_odds": "94.3%",
       "lose_odds": "13.6%",
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Ateba Gautier",
@@ -164,7 +164,7 @@
       },
       "win_odds": "90.9%",
       "lose_odds": "17.4%",
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Modestas Bukauskas",
@@ -187,7 +187,7 @@
       },
       "win_odds": "61.3%",
       "lose_odds": "46.3%",
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Charles Johnson",
@@ -210,7 +210,7 @@
       },
       "win_odds": "68.5%",
       "lose_odds": "39.8%",
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Alexander Hernandez",
