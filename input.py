@@ -1,3 +1,4 @@
+limit_pred = 52
 event_date = "2026-01-31"
 event = "UFC 325: Volkanovski vs. Lopes 2"
 
