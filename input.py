@@ -1,5 +1,5 @@
-event_date = "2026-01-24"
-event = "UFC 324: Gaethje vs. Pimblett"
+event_date = "2026-01-31"
+event = "UFC 325: Volkanovski vs. Lopes 2"
 
 # Vstupní seznamy zápasníků
 event_fighters1 = ["Justin Gaethje","Sean O'Malley","Waldo Cortes Acosta","Natalia Silva","Arnold Allen","Umar Nurmagomedov",
