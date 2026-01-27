@@ -121,29 +121,6 @@
       "hit": -1
     },
     {
-      "winner": "Junior Tafa",
-      "win_prob": "51.1%",
-      "loser": "Billy Elekana",
-      "lose_prob": "48.9%",
-      "shap_groups": {
-        "Age": 3.35,
-        "Boxing Defense": -2.87,
-        "MMAI Score": -2.42,
-        "Boxing Attack": 2.09,
-        "Kickboxing Defense": 0.9,
-        "Wrestling Attack": -0.82,
-        "Kickboxing Attack": 0.63,
-        "Wrestling Defense": 0.44,
-        "Win/Lose Rates": -0.4,
-        "Reach": 0.26,
-        "Grappling Defense": -0.06,
-        "Grappling Attack": -0.01
-      },
-      "win_odds": "35.8%",
-      "lose_odds": "73.0%",
-      "hit": -1
-    },
-    {
       "winner": "Cam Rowston",
       "win_prob": "58.9%",
       "loser": "Cody Brundage",
@@ -164,52 +141,6 @@
       },
       "win_odds": "80.0%",
       "lose_odds": "28.7%",
-      "hit": -1
-    },
-    {
-      "winner": "Torrez Finney",
-      "win_prob": "50.7%",
-      "loser": "Jacob Malkoun",
-      "lose_prob": "49.3%",
-      "shap_groups": {
-        "MMAI Score": 4.63,
-        "Age": 4.26,
-        "Wrestling Attack": -2.97,
-        "Boxing Attack": -2.62,
-        "Reach": 2.44,
-        "Win/Lose Rates": -1.17,
-        "Grappling Attack": -1.06,
-        "Kickboxing Attack": -0.94,
-        "Wrestling Defense": -0.76,
-        "Kickboxing Defense": -0.49,
-        "Boxing Defense": -0.4,
-        "Grappling Defense": -0.23
-      },
-      "win_odds": "46.9%",
-      "lose_odds": "60.6%",
-      "hit": -1
-    },
-    {
-      "winner": "Oban Elliott",
-      "win_prob": "51.2%",
-      "loser": "Jonathan Micallef",
-      "lose_prob": "48.8%",
-      "shap_groups": {
-        "Wrestling Attack": 3.78,
-        "MMAI Score": 3.6,
-        "Age": -3.46,
-        "Kickboxing Attack": -2.61,
-        "Wrestling Defense": 1.27,
-        "Boxing Attack": -0.74,
-        "Win/Lose Rates": 0.5,
-        "Kickboxing Defense": -0.46,
-        "Grappling Attack": -0.4,
-        "Boxing Defense": -0.23,
-        "Reach": -0.22,
-        "Grappling Defense": 0.13
-      },
-      "win_odds": "48.8%",
-      "lose_odds": "59.2%",
       "hit": -1
     },
     {
