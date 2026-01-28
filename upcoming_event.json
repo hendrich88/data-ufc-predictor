@@ -3,7 +3,7 @@
   "event": "UFC 325: Volkanovski vs. Lopes 2",
   "event_accuracy": 0,
   "event_roi": 0,
-  "event_fights": 14,
+  "event_fights": 11,
   "fights": [
     {
       "winner": "Alexander Volkanovski",
@@ -24,6 +24,7 @@
         "Grappling Defense": 0.44,
         "Reach": 0.05
       },
+      "edge": "-2.2%",
       "win_odds": "61.3%",
       "lose_odds": "45.7%",
       "hit": -1
@@ -47,6 +48,7 @@
         "Kickboxing Defense": -0.53,
         "Reach": -0.28
       },
+      "edge": "-3.89%",
       "win_odds": "77.5%",
       "lose_odds": "31.5%",
       "hit": -1
@@ -70,6 +72,7 @@
         "Reach": 0.37,
         "Grappling Attack": -0.08
       },
+      "edge": "15.74%",
       "win_odds": "55.6%",
       "lose_odds": "52.1%",
       "hit": -1
@@ -87,12 +90,13 @@
         "Reach": 1.72,
         "Kickboxing Attack": 1.59,
         "Grappling Attack": 0.9,
-        "Win/Lose Rates": 0.85,
+        "Win/Lose Rates": 0.84,
         "Boxing Defense": 0.74,
         "Boxing Attack": 0.69,
         "Kickboxing Defense": 0.38,
         "Grappling Defense": 0.17
       },
+      "edge": "-0.55%",
       "win_odds": "76.9%",
       "lose_odds": "31.9%",
       "hit": -1
@@ -116,6 +120,7 @@
         "Win/Lose Rates": 0.08,
         "Reach": -0.05
       },
+      "edge": "-23.32%",
       "win_odds": "92.6%",
       "lose_odds": "16.0%",
       "hit": -1
@@ -139,6 +144,7 @@
         "Kickboxing Defense": -0.26,
         "Win/Lose Rates": -0.12
       },
+      "edge": "-26.38%",
       "win_odds": "80.0%",
       "lose_odds": "28.7%",
       "hit": -1
@@ -162,6 +168,7 @@
         "Kickboxing Defense": -0.38,
         "Grappling Defense": 0.28
       },
+      "edge": "-12.77%",
       "win_odds": "69.9%",
       "lose_odds": "38.9%",
       "hit": -1
@@ -185,6 +192,7 @@
         "Win/Lose Rates": -0.16,
         "Reach": 0.02
       },
+      "edge": "-18.62%",
       "win_odds": "64.5%",
       "lose_odds": "43.5%",
       "hit": -1
@@ -208,6 +216,7 @@
         "Grappling Attack": -0.05,
         "Grappling Defense": 0.05
       },
+      "edge": "12.43%",
       "win_odds": "50.3%",
       "lose_odds": "57.5%",
       "hit": -1
@@ -231,6 +240,7 @@
         "Kickboxing Defense": 0.11,
         "Grappling Defense": -0.08
       },
+      "edge": "-16.43%",
       "win_odds": "73.0%",
       "lose_odds": "35.8%",
       "hit": -1
@@ -254,6 +264,7 @@
         "Kickboxing Attack": 0.01,
         "Grappling Defense": -0.01
       },
+      "edge": "4.65%",
       "win_odds": "58.5%",
       "lose_odds": "49.3%",
       "hit": -1
