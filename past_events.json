@@ -35,6 +35,7 @@
             "Reach": 0.62,
             "Grappling Defense": 0.29
           },
+          "edge": "-5.22%",
           "win_odds": "70.9%",
           "lose_odds": "37.2%",
           "hit": 0
@@ -58,6 +59,7 @@
             "Grappling Defense": 0.22,
             "Kickboxing Defense": 0
           },
+          "edge": "-17.44%",
           "win_odds": "67.1%",
           "lose_odds": "40.0%",
           "hit": 1
@@ -81,6 +83,7 @@
             "Kickboxing Defense": -0.39,
             "Reach": 0.1
           },
+          "edge": "-26.84%",
           "win_odds": "77.5%",
           "lose_odds": "30.5%",
           "hit": 1
@@ -104,6 +107,7 @@
             "Grappling Defense": 0.2,
             "Reach": 0.07
           },
+          "edge": "-20.61%",
           "win_odds": "82.0%",
           "lose_odds": "26.7%",
           "hit": 1
@@ -127,6 +131,7 @@
             "Boxing Defense": 0.67,
             "Grappling Defense": -0.59
           },
+          "edge": "-19.43%",
           "win_odds": "74.1%",
           "lose_odds": "33.4%",
           "hit": 1
@@ -150,6 +155,7 @@
             "Grappling Defense": -0.19,
             "MMAI Score": 0.13
           },
+          "edge": "-26.62",
           "win_odds": "94.3%",
           "lose_odds": "13.6%",
           "hit": 1
@@ -173,6 +179,7 @@
             "Win/Lose Rates": 0.18,
             "Reach": 0.12
           },
+          "edge": "-37.73%",
           "win_odds": "90.9%",
           "lose_odds": "17.4%",
           "hit": 1
@@ -196,6 +203,7 @@
             "Reach": 0.25,
             "Grappling Defense": 0.19
           },
+          "edge": "-8.48%",
           "win_odds": "61.3%",
           "lose_odds": "46.3%",
           "hit": 0
@@ -219,6 +227,7 @@
             "Kickboxing Defense": 0.58,
             "Grappling Defense": 0.26
           },
+          "edge": "-8.76%",
           "win_odds": "68.5%",
           "lose_odds": "39.8%",
           "hit": 0
@@ -242,6 +251,7 @@
             "Wrestling Defense": 0.32,
             "Reach": -0.15
           },
+          "edge": "-15.78%",
           "win_odds": "62.1%",
           "lose_odds": "45.7%",
           "hit": -1
@@ -265,6 +275,7 @@
             "Grappling Defense": 0.13,
             "Reach": -0.12
           },
+          "edge": "-18.48%",
           "win_odds": "67.1%",
           "lose_odds": "41.5%",
           "hit": -1
