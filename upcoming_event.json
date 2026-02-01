@@ -243,7 +243,7 @@
       "edge": "-16.43%",
       "win_odds": "73.0%",
       "lose_odds": "35.8%",
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Namsrai Batbayar",
@@ -267,7 +267,7 @@
       "edge": "4.65%",
       "win_odds": "58.5%",
       "lose_odds": "49.3%",
-      "hit": 0
+      "hit": -1
     }
   ]
 }
