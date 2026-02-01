@@ -27,7 +27,7 @@
       "edge": "-2.2%",
       "win_odds": "61.3%",
       "lose_odds": "45.7%",
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Benoit Saint Denis",
@@ -51,7 +51,7 @@
       "edge": "-3.89%",
       "win_odds": "77.5%",
       "lose_odds": "31.5%",
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Mauricio Ruffy",
@@ -75,7 +75,7 @@
       "edge": "15.74%",
       "win_odds": "55.6%",
       "lose_odds": "52.1%",
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Tallison Teixeira",
@@ -99,7 +99,7 @@
       "edge": "-0.55%",
       "win_odds": "76.9%",
       "lose_odds": "31.9%",
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Quillan Salkilld",
@@ -123,7 +123,7 @@
       "edge": "-23.32%",
       "win_odds": "92.6%",
       "lose_odds": "16.0%",
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Cam Rowston",
@@ -147,7 +147,7 @@
       "edge": "-26.38%",
       "win_odds": "80.0%",
       "lose_odds": "28.7%",
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Yizha",
@@ -171,7 +171,7 @@
       "edge": "-12.77%",
       "win_odds": "69.9%",
       "lose_odds": "38.9%",
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Dom Mar Fan",
@@ -195,7 +195,7 @@
       "edge": "-18.62%",
       "win_odds": "64.5%",
       "lose_odds": "43.5%",
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Keiichiro Nakamura",
@@ -219,7 +219,7 @@
       "edge": "12.43%",
       "win_odds": "50.3%",
       "lose_odds": "57.5%",
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Sulangrangbo",
@@ -267,7 +267,7 @@
       "edge": "4.65%",
       "win_odds": "58.5%",
       "lose_odds": "49.3%",
-      "hit": -1
+      "hit": 0
     }
   ]
 }
