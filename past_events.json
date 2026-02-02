@@ -231,63 +231,8 @@
           "win_odds": "68.5%",
           "lose_odds": "39.8%",
           "hit": 0
-        },
-        {
-          "winner": "Alexander Hernandez",
-          "win_prob": "52.3%",
-          "loser": "Michael Johnson",
-          "lose_prob": "47.7%",
-          "shap_groups": {
-            "Age": 7.85,
-            "MMAI Score": 4.29,
-            "Boxing Attack": -3.28,
-            "Kickboxing Attack": -2.64,
-            "Wrestling Attack": -2.23,
-            "Boxing Defense": 1.82,
-            "Grappling Attack": -1.4,
-            "Kickboxing Defense": -0.94,
-            "Win/Lose Rates": -0.71,
-            "Grappling Defense": -0.64,
-            "Wrestling Defense": 0.32,
-            "Reach": -0.15
-          },
-          "edge": "-15.78%",
-          "win_odds": "62.1%",
-          "lose_odds": "45.7%",
-          "hit": -1
-        },
-        {
-          "winner": "Cameron Smotherman",
-          "win_prob": "54.7%",
-          "loser": "Ricky Turcios",
-          "lose_prob": "45.3%",
-          "shap_groups": {
-            "Age": 5.09,
-            "MMAI Score": 4.75,
-            "Wrestling Attack": -4.45,
-            "Boxing Attack": 1.92,
-            "Grappling Attack": -1.79,
-            "Win/Lose Rates": -1.15,
-            "Boxing Defense": 0.8,
-            "Kickboxing Defense": -0.55,
-            "Wrestling Defense": 0.41,
-            "Kickboxing Attack": -0.32,
-            "Grappling Defense": 0.13,
-            "Reach": -0.12
-          },
-          "edge": "-18.48%",
-          "win_odds": "67.1%",
-          "lose_odds": "41.5%",
-          "hit": -1
         }
       ]
     }
   ]
 }
-
-
-
-
-
-
-ChatGPT může dělat chyby. Doporučujeme kontrolovat důležité informace. Viz předvolby cookies.
