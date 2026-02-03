@@ -3,17 +3,17 @@
     2026
   ],
   "total_accuracy": 0.6666666666666666,
-  "total_roi": -1.48976919512928,
+  "total_roi": -16.552991056992,
   "total_fights": 9,
   "year_accuracy": 0.6666666666666666,
-  "year_roi": -1.48976919512928,
+  "year_roi": -16.552991056992,
   "year_fights": 9,
   "events": [
     {
       "event_date": "2026-01-24",
       "event": "UFC 324: Gaethje vs. Pimblett",
       "event_accuracy": 0.6666666666666666,
-      "event_roi": -1.48976919512928,
+      "event_roi": -16.552991056992,
       "event_fights": 9,
       "fights": [
         {
