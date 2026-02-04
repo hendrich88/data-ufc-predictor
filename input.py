@@ -1,6 +1,6 @@
 limit_pred = 52
-event_date = "2026-01-31"
-event = "UFC 325: Volkanovski vs. Lopes 2"
+event_date = "2026-02-07"
+event = "UFC Fight Night: Bautista vs. Oliveira"
 
 # Vstupní seznamy zápasníků
 # Vstupní seznamy zápasníků
