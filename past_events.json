@@ -2,12 +2,12 @@
   "year_list": [
     2026
   ],
-  "total_accuracy": 0.7368421052631579,
-  "total_roi": 2.1010463069857486,
-  "total_fights": 19,
-  "year_accuracy": 0.7368421052631579,
-  "year_roi": 2.1010463069857486,
-  "year_fights": 19,
+  "total_accuracy": 0.6923076923076923,
+  "total_roi": -3.1452904777317983,
+  "total_fights": 26,
+  "year_accuracy": 0.6923076923076923,
+  "year_roi": -3.1452904777317983,
+  "year_fights": 26,
   "events": [
     {
       "event_date": "2026-01-24",
@@ -504,6 +504,207 @@
           "win_odds": "58.5%",
           "lose_odds": "49.3%",
           "hit": -1
+        }
+      ]
+    },
+    {
+      "event_date": "2026-02-07",
+      "event": "UFC Fight Night: Bautista vs. Oliveira",
+      "event_accuracy": 0.5714285714285714,
+      "event_roi": -17.38534746482228,
+      "event_fights": 7,
+      "fights": [
+        {
+          "winner": "Vinicius Oliveira",
+          "win_prob": "55.3%",
+          "loser": "Mario Bautista",
+          "lose_prob": "44.7%",
+          "shap_groups": {
+            "Age": 3.71,
+            "Win/Lose Rates": 3.16,
+            "Grappling Attack": -3.14,
+            "Boxing Attack": 2.94,
+            "Boxing Defense": -2.51,
+            "MMAI Score": -2.45,
+            "Kickboxing Attack": 2.05,
+            "Wrestling Defense": 0.81,
+            "Kickboxing Defense": 0.77,
+            "Wrestling Attack": -0.74,
+            "Grappling Defense": 0.69,
+            "Reach": 0.01
+          },
+          "edge": "31.61%",
+          "win_odds": "42.0%",
+          "lose_odds": "65.4%",
+          "hit": 0
+        },
+        {
+          "winner": "Jailton Almeida",
+          "win_prob": "59.6%",
+          "loser": "Rizvan Kuniev",
+          "lose_prob": "40.4%",
+          "shap_groups": {
+            "Wrestling Attack": 4.4,
+            "MMAI Score": 4,
+            "Grappling Attack": 2.92,
+            "Age": -1.41,
+            "Boxing Defense": 1.4,
+            "Win/Lose Rates": -0.93,
+            "Wrestling Defense": -0.71,
+            "Kickboxing Attack": 0.53,
+            "Kickboxing Defense": -0.46,
+            "Grappling Defense": -0.39,
+            "Boxing Attack": 0.24,
+            "Reach": 0.04
+          },
+          "edge": "-2.26%",
+          "win_odds": "61.0%",
+          "lose_odds": "46.1%",
+          "hit": 0
+        },
+        {
+          "winner": "Michal Oleksiejczuk",
+          "win_prob": "67.1%",
+          "loser": "Marc-Andre Barriault",
+          "lose_prob": "32.9%",
+          "shap_groups": {
+            "Age": 5.37,
+            "Boxing Attack": 3.73,
+            "Kickboxing Attack": 3.67,
+            "MMAI Score": 3.47,
+            "Boxing Defense": 1.69,
+            "Grappling Attack": -1.67,
+            "Wrestling Attack": 1.59,
+            "Grappling Defense": -1.51,
+            "Wrestling Defense": 1.45,
+            "Win/Lose Rates": -0.75,
+            "Reach": 0.17,
+            "Kickboxing Defense": -0.1
+          },
+          "edge": "-20.15%",
+          "win_odds": "84.0%",
+          "lose_odds": "24.0%",
+          "hit": 1
+        },
+        {
+          "winner": "Farid Basharat",
+          "win_prob": "63.2%",
+          "loser": "Jean Matsumoto",
+          "lose_prob": "36.8%",
+          "shap_groups": {
+            "Boxing Attack": 5.46,
+            "Age": -3.09,
+            "Kickboxing Attack": 3.07,
+            "Win/Lose Rates": 3.02,
+            "Boxing Defense": 2.49,
+            "MMAI Score": 2.28,
+            "Grappling Attack": -2.02,
+            "Wrestling Attack": 0.93,
+            "Kickboxing Defense": 0.77,
+            "Reach": 0.3,
+            "Wrestling Defense": 0.19,
+            "Grappling Defense": -0.17
+          },
+          "edge": "-15.31%",
+          "win_odds": "74.6%",
+          "lose_odds": "32.6%",
+          "hit": 1
+        },
+        {
+          "winner": "Julius Walker",
+          "win_prob": "56.9%",
+          "loser": "Dustin Jacoby",
+          "lose_prob": "43.1%",
+          "shap_groups": {
+            "Age": 7.26,
+            "Wrestling Attack": 6.03,
+            "Boxing Attack": -3.36,
+            "Win/Lose Rates": -2.27,
+            "MMAI Score": 1.77,
+            "Kickboxing Attack": -1.69,
+            "Boxing Defense": 1.12,
+            "Kickboxing Defense": -1.01,
+            "Wrestling Defense": -0.76,
+            "Grappling Defense": -0.49,
+            "Grappling Attack": 0.22,
+            "Reach": 0.12
+          },
+          "edge": "36.56%",
+          "win_odds": "41.7%",
+          "lose_odds": "66.7%",
+          "hit": 0
+        },
+        {
+          "winner": "Ketlen Souza",
+          "win_prob": "63.6%",
+          "loser": "Bruna Brasil",
+          "lose_prob": "36.4%",
+          "shap_groups": {
+            "Wrestling Attack": 3.27,
+            "Age": 3.18,
+            "Kickboxing Attack": 3.09,
+            "Boxing Attack": 2.8,
+            "Boxing Defense": -2.63,
+            "Wrestling Defense": 1.16,
+            "MMAI Score": 0.95,
+            "Kickboxing Defense": 0.94,
+            "Win/Lose Rates": 0.48,
+            "Grappling Defense": 0.3,
+            "Reach": 0.18,
+            "Grappling Attack": -0.11
+          },
+          "edge": "3.03%",
+          "win_odds": "61.7%",
+          "lose_odds": "45.9%",
+          "hit": 1
+        },
+        {
+          "winner": "Said Nurmagomedov",
+          "win_prob": "53.9%",
+          "loser": "Javid Basharat",
+          "lose_prob": "46.1%",
+          "shap_groups": {
+            "Age": -4.48,
+            "Grappling Attack": 3.42,
+            "MMAI Score": 3.01,
+            "Boxing Defense": 2.45,
+            "Boxing Attack": -1.9,
+            "Wrestling Attack": 1.69,
+            "Kickboxing Attack": -0.94,
+            "Reach": 0.59,
+            "Win/Lose Rates": 0.56,
+            "Wrestling Defense": -0.29,
+            "Grappling Defense": -0.24,
+            "Kickboxing Defense": -0.02
+          },
+          "edge": "4.03%",
+          "win_odds": "51.8%",
+          "lose_odds": "55.9%",
+          "hit": -1
+        },
+        {
+          "winner": "Klaudia Sygula",
+          "win_prob": "68.2%",
+          "loser": "Priscila Cachoeira",
+          "lose_prob": "31.8%",
+          "shap_groups": {
+            "Age": 4.55,
+            "Wrestling Attack": 4.37,
+            "Boxing Attack": 4.32,
+            "Grappling Attack": 2.09,
+            "Kickboxing Attack": 2.08,
+            "Wrestling Defense": 1.32,
+            "Win/Lose Rates": -1.04,
+            "MMAI Score": 0.88,
+            "Grappling Defense": -0.76,
+            "Reach": 0.58,
+            "Boxing Defense": -0.56,
+            "Kickboxing Defense": 0.34
+          },
+          "edge": "11.17%",
+          "win_odds": "61.3%",
+          "lose_odds": "46.3%",
+          "hit": 1
         }
       ]
     }
