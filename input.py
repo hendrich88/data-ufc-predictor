@@ -22,3 +22,5 @@ hit = [-1, -1, -1, -1, -1, -1, -1,
 
 event_accuracy = 0
 event_roi = 0
+
+# https://ufc-predictor-api-4hjv.onrender.com/predict-event
