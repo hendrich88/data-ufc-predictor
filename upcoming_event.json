@@ -27,7 +27,7 @@
       "edge": "-17.86%",
       "win_odds": "74.6%",
       "lose_odds": "33.4%",
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Geoff Neal",
@@ -51,7 +51,7 @@
       "edge": "-23.97%",
       "win_odds": "69.4%",
       "lose_odds": "38.8%",
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Melquizael Costa",
@@ -75,7 +75,7 @@
       "edge": "-13.42%",
       "win_odds": "68.5%",
       "lose_odds": "39.1%",
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Serghei Spivac",
@@ -99,7 +99,7 @@
       "edge": "29.74%",
       "win_odds": "47.2%",
       "lose_odds": "60.2%",
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Zach Reese",
@@ -123,7 +123,7 @@
       "edge": "27.3%",
       "win_odds": "45.2%",
       "lose_odds": "62.1%",
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Joselyne Edwards",
@@ -147,7 +147,7 @@
       "edge": "-19.37%",
       "win_odds": "77.5%",
       "lose_odds": "30.1%",
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Yadier del Valle",
@@ -171,7 +171,7 @@
       "edge": "-34.97%",
       "win_odds": "82.0%",
       "lose_odds": "25.6%",
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Carli Judice",
@@ -195,7 +195,7 @@
       "edge": "-33.25%",
       "win_odds": "89.3%",
       "lose_odds": "18.5%",
-      "hit": -1
+      "hit": 1
     }
   ]
 }
