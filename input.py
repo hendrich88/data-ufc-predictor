@@ -1,6 +1,6 @@
 limit_pred = 60
-min_winner_fights = 3
-min_loser_fights = 3
+min_winner_fights = 2
+min_loser_fights = 2
 
 event_date = "2026-01-24"
 event = "UFC 324: Gaethje vs. Pimblett"
