@@ -1,4 +1,7 @@
-limit_pred = 52
+limit_pred = 60
+min_winner_fights = 3
+min_loser_fights = 3
+
 event_date = "2026-02-21"
 event = "UFC Fight Night: Strickland vs. Hernandez"
 
