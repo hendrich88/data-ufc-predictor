@@ -2,26 +2,17 @@ limit_pred = 60
 min_winner_fights = 3
 min_loser_fights = 3
 
-event_date = "2026-02-21"
-event = "UFC Fight Night: Strickland vs. Hernandez"
+event_date = "2026-01-24"
+event = "UFC 324: Gaethje vs. Pimblett"
 
 # Vstupní seznamy zápasníků
-# Vstupní seznamy zápasníků
-event_fighters1 = ["Sean Strickland","Geoff Neal","Dan Ige","Serghei Spivac","Zach Reese","Chidi Njokuani", "Nora Cornolle", 
-                   "Ramiz Brahimaj","Jordan Leavitt","Juliana Miller"]
-
-event_fighters2 =  ["Anthony Hernandez","Uros Medic","Melquizael Costa","Ante Delija","Michel Pereira","Carlos Leal", "Joselyne Edwards", 
-                    "Punahele Soriano","Yadier del Valle","Carli Judice"]
+event_fighters1 = ["Paddy Pimblett", "Sean O'Malley", "Waldo Cortes Acosta", "Natalia Silva", "Jean Silva", "Umar Nurmagomedov", "Ateba Gautier", "Modestas Bukauskas", "Charles Johnson"]
+event_fighters2 = ["Justin Gaethje", "Song Yadong", "Derrick Lewis", "Rose Namajunas", "Arnold Allen", "Deiveson Figueiredo", "Andrey Pulyaev", "Nikita Krylov", "Alex Perez"]
 
 # Sázkové kurzy
-odds_fighters1 = [ 2.99, 1.44, 2.56, 2.12, 2.21, 2.03, 3.32,
-                   1.78, 3.91, 5.41] 
-
-odds_fighters2 = [ 1.34, 2.58, 1.46, 1.66, 1.61, 1.72, 1.29,
-                   1.96, 1.22, 1.12] 
-
-hit = [-1, -1, -1, -1, -1, -1, -1, 
-       -1, -1, -1]
+odds_fighters1 = [1.41, 1.49, 1.29, 1.22, 1.35, 1.06, 1.10, 1.63, 1.46]
+odds_fighters2 = [2.69, 2.50, 3.28, 3.75, 2.99, 7.35, 5.75, 2.16, 2.51]
+hit = [0, 1, 1, 1, 1, 1, 1, 0, 0]
 
 event_accuracy = 0
 event_roi = 0
