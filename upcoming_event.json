@@ -3,11 +3,15 @@
   "event": "UFC 324: Gaethje vs. Pimblett",
   "event_accuracy": 0,
   "event_roi": 0,
+  "event_fights": 5,
   "fights": [
     {
       "winner": "Paddy Pimblett",
-      "loser": "Justin Gaethje",
       "win_prob": "65.1%",
+      "win_odds": "70.9%",
+      "loser": "Justin Gaethje",
+      "lose_prob": "34.9%",
+      "lose_odds": "37.2%",
       "fair_odds": 1.54,
       "edge": "-8.2%",
       "shap_groups": {
@@ -31,8 +35,11 @@
     },
     {
       "winner": "Sean O'Malley",
-      "loser": "Song Yadong",
       "win_prob": "71.7%",
+      "win_odds": "67.1%",
+      "loser": "Song Yadong",
+      "lose_prob": "28.3%",
+      "lose_odds": "40.0%",
       "fair_odds": 1.39,
       "edge": "6.9%",
       "shap_groups": {
@@ -56,8 +63,11 @@
     },
     {
       "winner": "Jean Silva",
-      "loser": "Arnold Allen",
       "win_prob": "65.3%",
+      "win_odds": "74.1%",
+      "loser": "Arnold Allen",
+      "lose_prob": "34.7%",
+      "lose_odds": "33.4%",
       "fair_odds": 1.53,
       "edge": "-11.8%",
       "shap_groups": {
@@ -81,8 +91,11 @@
     },
     {
       "winner": "Umar Nurmagomedov",
-      "loser": "Deiveson Figueiredo",
       "win_prob": "81.7%",
+      "win_odds": "94.3%",
+      "loser": "Deiveson Figueiredo",
+      "lose_prob": "18.3%",
+      "lose_odds": "13.6%",
       "fair_odds": 1.22,
       "edge": "-13.4%",
       "shap_groups": {
@@ -106,8 +119,11 @@
     },
     {
       "winner": "Modestas Bukauskas",
-      "loser": "Nikita Krylov",
       "win_prob": "70.7%",
+      "win_odds": "61.3%",
+      "loser": "Nikita Krylov",
+      "lose_prob": "29.3%",
+      "lose_odds": "46.3%",
       "fair_odds": 1.41,
       "edge": "15.2%",
       "shap_groups": {
