@@ -2,17 +2,20 @@ limit_pred = 60
 min_winner_fights = 0
 min_loser_fights = 0
 
-event_date = "2026-02-28"
-event = "UFC Fight Night: Moreno vs. Kavanagh"
+event_date = "2026-03-07"
+event = "UFC 326: Holloway vs. Oliveira 2"
 
 # Vstupní seznamy zápasníků
-event_fighters1 = ["Brandon Moreno", "Marlon Vera", "Daniel Zellhuber", "Edgar Chairez", "Ailin Perez", "Cristian Quinonez", "Erik Silva"] 
-event_fighters2 = ["Lone'er Kavanagh", "David Martinez", "King Green", "Felipe Bunes", "Macy Chiasson", "Kris Moutinho", "Francis Marshall"]
+event_fighters1 = ["Max Holloway", "Caio Borralho", "Rob Font", "Drew Dober", "Gregory Rodrigues", "Cody Garbrandt",
+                   "Donte Johnson", "Cody Durden", "Sumudaerji", "JooSang Yoo"]
+event_fighters2 = ["Charles Oliveira", "Reinier de Ridder", "Raul Rosas Jr.", "Michael Johnson", "Brunno Ferreira", "Xiao Long",
+                   "Cody Brundage", "Nyamjargal Tumendemberel", "Jesus Aguilar", "Gaston Bolanos"]
 
 # Sázkové kurzy
-odds_fighters1 = [1.50, 4.17, 1.19, 1.29, 1.54, 1.15, 2.00] 
-odds_fighters2 = [2.10, 1.35, 4.00, 3.60, 2.50, 5.00, 1.15] 
-hit = [-1, -1, -1, -1, -1, -1, -1]
+odds_fighters1 = [1.44, 1.32, 2.58, 1.94, 1.48, 2.14, 1.14, 2.05, 1.38, 1.32]
+odds_fighters2 = [2.60, 3.02, 1.43, 1.78, 2.45, 1.64, 4.85, 1.70, 2.77, 3.00]
+
+hit = [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
 
 event_accuracy = 0
 event_roi = 0
