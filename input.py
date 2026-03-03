@@ -7,7 +7,7 @@ event = "UFC 326: Holloway vs. Oliveira 2"
 
 # Vstupní seznamy zápasníků
 event_fighters1 = ["Max Holloway", "Caio Borralho", "Rob Font", "Drew Dober", "Gregory Rodrigues", "Cody Garbrandt",
-                   "Donte Johnson", "Cody Durden", "Sumudaerji", "JooSang Yoo"]
+                   "Donte Johnson", "Cody Durden", "Sumudaerji", "JeongYeong Lee"]
 event_fighters2 = ["Charles Oliveira", "Reinier de Ridder", "Raul Rosas Jr.", "Michael Johnson", "Brunno Ferreira", "Xiao Long",
                    "Cody Brundage", "Nyamjargal Tumendemberel", "Jesus Aguilar", "Gaston Bolanos"]
 
