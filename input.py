@@ -3,20 +3,18 @@ edge = -666666
 min_winner_fights = 0
 min_loser_fights = 0
 
-event_date = "2026-03-07"
-event = "UFC 326: Holloway vs. Oliveira 2"
+event_date = "2026-01-24"
+event = "UFC 324: Gaethje vs. Pimblett"
 
 # Vstupní seznamy zápasníků
-event_fighters1 = ["Max Holloway", "Caio Borralho", "Rob Font", "Drew Dober", "Gregory Rodrigues", "Cody Garbrandt",
-                   "Donte Johnson", "Cody Durden", "Sumudaerji", "JeongYeong Lee"]
-event_fighters2 = ["Charles Oliveira", "Reinier de Ridder", "Raul Rosas Jr.", "Michael Johnson", "Brunno Ferreira", "Xiao Long",
-                   "Cody Brundage", "Nyamjargal Tumendemberel", "Jesus Aguilar", "Gaston Bolanos"]
+event_fighters1 = ["Paddy Pimblett", "Sean O'Malley", "Jean Silva", "Umar Nurmagomedov", "Modestas Bukauskas"]
+event_fighters2 = ["Justin Gaethje", "Song Yadong", "Arnold Allen", "Deiveson Figueiredo", "Nikita Krylov"]
 
 # Sázkové kurzy
-odds_fighters1 = [1.44, 1.32, 2.58, 1.94, 1.48, 2.14, 1.14, 2.05, 1.38, 1.32]
-odds_fighters2 = [2.60, 3.02, 1.43, 1.78, 2.45, 1.64, 4.85, 1.70, 2.77, 3.00]
+odds_fighters1 = [1.41, 1.49, 1.35, 1.06, 1.63]
+odds_fighters2 = [2.69, 2.50, 2.99, 7.35, 2.16]
 
-hit = [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+hit = [0, 1, 1, 1, 0]
 
 event_accuracy = 0
 event_roi = 0
