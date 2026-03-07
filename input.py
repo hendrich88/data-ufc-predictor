@@ -3,22 +3,17 @@ edge = -666666
 min_winner_fights = 0
 min_loser_fights = 0
 
-event_date = "2026-01-24"
-event = "UFC 324: Gaethje vs. Pimblett"
+event_date = "2026-01-31"
+event = "UFC 325: Volkanovski vs. Lopes 2"
 
-# Vstupní seznamy zápasníků
-event_fighters1 = ["Justin Gaethje","Sean O'Malley","Waldo Cortes Acosta","Natalia Silva","Arnold Allen","Umar Nurmagomedov",
-                   "Ateba Gautier","Nikita Krylov","Alex Perez","Michael Johnson","Ricky Turcios"] 
-
-event_fighters2 = ["Paddy Pimblett","Song Yadong","Derrick Lewis","Rose Namajunas","Jean Silva","Deiveson Figueiredo",
-                   "Andrey Pulyaev","Modestas Bukauskas","Charles Johnson","Alexander Hernandez","Cameron Smotherman"]   
+event_fighters1 = ["Alexander Volkanovski", "Benoit Saint Denis", "Mauricio Ruffy", "Tallison Teixeira", "Quillan Salkilld", "Cam Rowston", "Yizha", "Dom Mar Fan", "Keiichiro Nakamura", "Sulangrangbo", "Namsrai Batbayar"]
+event_fighters2 = ["Diego Lopes", "Dan Hooker", "Rafael Fiziev", "Tai Tuivasa", "Jamie Mullarkey", "Cody Brundage", "Kaan Ofli", "Sangwook Kim", "Sebastian Szalay", "Lawrence Lui", "Aaron Tau"]  
 
 # Sázkové kurzy
-odds_fighters1 = [2.69, 1.49, 1.29, 1.22, 2.99, 1.06, 1.10, 2.16, 2.51, 2.19, 2.41] 
+odds_fighters1 = [1.63, 1.29, 1.80, 1.30, 1.08, 1.25, 1.43, 1.55, 1.99, 1.37, 1.71]
+odds_fighters2 = [2.19, 3.17, 1.92, 3.13, 6.25, 3.48, 2.57, 2.30, 1.74, 2.79, 2.03]
+hit = [1, 1, 1, 1, 1, 1, 0, 1, 1, 0, -1]
 
-odds_fighters2 = [1.41, 2.50, 3.28, 3.74, 1.35, 7.33, 5.75, 1.63, 1.46, 1.61, 1.49]
-
-hit = [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
 
 event_accuracy = 0
 event_roi = 0
