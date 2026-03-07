@@ -3,16 +3,24 @@ edge = -666666
 min_winner_fights = 0
 min_loser_fights = 0
 
-event_date = "2026-02-07"
-event = "UFC Fight Night: Bautista vs. Oliveira"
+event_date = "2026-02-21"
+event = "UFC Fight Night: Strickland vs. Hernandez"
 
-event_fighters1 = ["Vinicius Oliveira", "Jailton Almeida", "Michal Oleksiejczuk", "Farid Basharat", "Julius Walker", "Ketlen Souza", "Said Nurmagomedov", "Klaudia Sygula"]
-event_fighters2 = ["Mario Bautista", "Rizvan Kuniev", "Marc-Andre Barriault", "Jean Matsumoto", "Dustin Jacoby", "Bruna Brasil", "Javid Basharat", "Priscila Cachoeira"]
+# Vstupní seznamy zápasníků
+event_fighters1 = ["Sean Strickland","Geoff Neal","Dan Ige","Serghei Spivac","Zach Reese","Chidi Njokuani", "Nora Cornolle", 
+                   "Ramiz Brahimaj","Jordan Leavitt","Juliana Miller"]
 
+event_fighters2 =  ["Anthony Hernandez","Uros Medic","Melquizael Costa","Ante Delija","Michel Pereira","Carlos Leal", "Joselyne Edwards", 
+                    "Punahele Soriano","Yadier del Valle","Carli Judice"]
 # Sázkové kurzy
-odds_fighters1 = [2.38, 1.64, 1.19, 1.34, 2.40, 1.62, 1.93, 1.63]
-odds_fighters2 = [1.53, 2.17, 4.17, 3.07, 1.50, 2.18, 1.79, 2.16]
-hit = [0, 0, 1, 1, 0, 1, -1, 1]
+odds_fighters1 = [ 2.99, 1.44, 2.56, 2.12, 2.21, 2.03, 3.32,
+                   1.78, 3.91, 5.41] 
+
+odds_fighters2 = [ 1.34, 2.58, 1.46, 1.66, 1.61, 1.72, 1.29,
+                   1.96, 1.22, 1.12] 
+
+hit = [-1, -1, -1, -1, -1, -1, -1, 
+       -1, -1, -1]
 
 
 event_accuracy = 0
