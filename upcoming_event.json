@@ -31,7 +31,7 @@
         "Reach": -0.12,
         "Kickboxing Defense": 0.12
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Geoff Neal",
@@ -59,7 +59,7 @@
         "Wrestling Defense": -0.09,
         "Boxing Attack": 0.02
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Melquizael Costa",
@@ -87,7 +87,7 @@
         "Reach": 0.05,
         "Wrestling Attack": 0
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Serghei Spivac",
@@ -115,7 +115,7 @@
         "Kickboxing Defense": 0.16,
         "Wrestling Defense": -0.06
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Michel Pereira",
@@ -143,7 +143,7 @@
         "Kickboxing Attack": 0.13,
         "Kickboxing Defense": -0.12
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Chidi Njokuani",
@@ -171,7 +171,7 @@
         "Wrestling Defense": -0.44,
         "Kickboxing Defense": 0.24
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Joselyne Edwards",
@@ -199,7 +199,7 @@
         "Damage Resistance (AI)": -0.17,
         "Ranking (AI)": -0.1
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Ramiz Brahimaj",
@@ -227,7 +227,7 @@
         "Reach": -0.08,
         "Kickboxing Defense": -0.07
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Yadier del Valle",
@@ -255,7 +255,7 @@
         "Ranking (AI)": -0.06,
         "Kickboxing Attack": -0.04
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Carli Judice",
@@ -283,7 +283,7 @@
         "Boxing Defense": -0.12,
         "Kickboxing Defense": -0.02
       },
-      "hit": -1
+      "hit": 1
     }
   ]
 }
