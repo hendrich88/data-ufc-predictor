@@ -7,14 +7,18 @@ event_date = "2026-01-24"
 event = "UFC 324: Gaethje vs. Pimblett"
 
 # Vstupní seznamy zápasníků
-event_fighters1 = ["Paddy Pimblett", "Sean O'Malley", "Jean Silva", "Umar Nurmagomedov", "Modestas Bukauskas"]
-event_fighters2 = ["Justin Gaethje", "Song Yadong", "Arnold Allen", "Deiveson Figueiredo", "Nikita Krylov"]
+event_fighters1 = ["Justin Gaethje","Sean O'Malley","Waldo Cortes Acosta","Natalia Silva","Arnold Allen","Umar Nurmagomedov",
+                   "Ateba Gautier","Nikita Krylov","Alex Perez","Michael Johnson","Ricky Turcios"] 
+
+event_fighters2 = ["Paddy Pimblett","Song Yadong","Derrick Lewis","Rose Namajunas","Jean Silva","Deiveson Figueiredo",
+                   "Andrey Pulyaev","Modestas Bukauskas","Charles Johnson","Alexander Hernandez","Cameron Smotherman"]   
 
 # Sázkové kurzy
-odds_fighters1 = [1.41, 1.49, 1.35, 1.06, 1.63]
-odds_fighters2 = [2.69, 2.50, 2.99, 7.35, 2.16]
+odds_fighters1 = [2.69, 1.49, 1.29, 1.22, 2.99, 1.06, 1.10, 2.16, 2.51, 2.19, 2.41] 
 
-hit = [0, 1, 1, 1, 0]
+odds_fighters2 = [1.41, 2.50, 3.28, 3.74, 1.35, 7.33, 5.75, 1.63, 1.46, 1.61, 1.49]
+
+hit = [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
 
 event_accuracy = 0
 event_roi = 0
