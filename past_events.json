@@ -1,4 +1,10 @@
-"total_fights": 0,
+{
+  "year_list": [
+    2026
+  ],
+  "total_accuracy": 0.0,
+  "total_roi": 0.0,
+  "total_fights": 0,
   "total_hits": 0,
   "year_accuracy": 0.0,
   "year_roi": 0.0,
