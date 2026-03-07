@@ -3,7 +3,7 @@
   "event": "UFC 324: Gaethje vs. Pimblett",
   "event_accuracy": 0,
   "event_roi": 0,
-  "event_fights": 5,
+  "event_fights": 11,
   "fights": [
     {
       "winner": "Paddy Pimblett",
@@ -58,6 +58,62 @@
         "Damage Resistance (AI)": -0.15,
         "Kickboxing Defense": 0.11,
         "Grappling Attack": -0.05
+      },
+      "hit": 1
+    },
+    {
+      "winner": "Derrick Lewis",
+      "win_prob": "50.3%",
+      "win_odds": "30.5%",
+      "loser": "Waldo Cortes Acosta",
+      "lose_prob": "49.7%",
+      "lose_odds": "77.5%",
+      "fair_odds": 1.99,
+      "edge": "65.1%",
+      "shap_groups": {
+        "Ranking (AI)": 3.77,
+        "Boxing Defense": -2.54,
+        "Kickboxing Attack": -2.53,
+        "Complex Dominance (AI)": -1.93,
+        "Win/Lose Rates": 1.88,
+        "Striking Dominance (AI)": -1.77,
+        "Age Index (AI)": 1.51,
+        "Damage Resistance (AI)": 1.48,
+        "Ground Dominance (AI)": -1.13,
+        "Boxing Attack": 0.66,
+        "Wrestling Attack": 0.39,
+        "Wrestling Defense": -0.35,
+        "Kickboxing Defense": 0.18,
+        "Reach": -0.16,
+        "Grappling Attack": -0.02
+      },
+      "hit": 0
+    },
+    {
+      "winner": "Natalia Silva",
+      "win_prob": "50.9%",
+      "win_odds": "82.0%",
+      "loser": "Rose Namajunas",
+      "lose_prob": "49.1%",
+      "lose_odds": "26.7%",
+      "fair_odds": 1.96,
+      "edge": "-37.9%",
+      "shap_groups": {
+        "Age Index (AI)": 7.11,
+        "Boxing Defense": -2.59,
+        "Complex Dominance (AI)": 1.62,
+        "Win/Lose Rates": -1.51,
+        "Ground Dominance (AI)": -1.41,
+        "Grappling Attack": -0.9,
+        "Boxing Attack": 0.75,
+        "Damage Resistance (AI)": 0.66,
+        "Wrestling Attack": -0.55,
+        "Wrestling Defense": -0.43,
+        "Kickboxing Defense": 0.25,
+        "Striking Dominance (AI)": -0.25,
+        "Kickboxing Attack": -0.22,
+        "Ranking (AI)": -0.16,
+        "Reach": -0.06
       },
       "hit": 1
     },
@@ -118,6 +174,34 @@
       "hit": 1
     },
     {
+      "winner": "Ateba Gautier",
+      "win_prob": "52.0%",
+      "win_odds": "90.9%",
+      "loser": "Andrey Pulyaev",
+      "lose_prob": "48.0%",
+      "lose_odds": "17.4%",
+      "fair_odds": 1.92,
+      "edge": "-42.7%",
+      "shap_groups": {
+        "Wrestling Attack": -2.87,
+        "Ranking (AI)": 1.51,
+        "Win/Lose Rates": -1.41,
+        "Grappling Attack": -0.96,
+        "Complex Dominance (AI)": -0.94,
+        "Striking Dominance (AI)": 0.94,
+        "Boxing Defense": 0.93,
+        "Damage Resistance (AI)": 0.89,
+        "Age Index (AI)": -0.52,
+        "Ground Dominance (AI)": -0.52,
+        "Boxing Attack": 0.39,
+        "Wrestling Defense": -0.2,
+        "Reach": -0.17,
+        "Kickboxing Attack": -0.09,
+        "Kickboxing Defense": 0.02
+      },
+      "hit": 1
+    },
+    {
       "winner": "Modestas Bukauskas",
       "win_prob": "73.5%",
       "win_odds": "61.3%",
@@ -144,6 +228,90 @@
         "Wrestling Defense": 0.02
       },
       "hit": 0
+    },
+    {
+      "winner": "Charles Johnson",
+      "win_prob": "55.4%",
+      "win_odds": "68.5%",
+      "loser": "Alex Perez",
+      "lose_prob": "44.6%",
+      "lose_odds": "39.8%",
+      "fair_odds": 1.81,
+      "edge": "-19.2%",
+      "shap_groups": {
+        "Age Index (AI)": -4.93,
+        "Grappling Attack": 3.11,
+        "Win/Lose Rates": 3.03,
+        "Striking Dominance (AI)": 2.73,
+        "Reach": 1.86,
+        "Kickboxing Attack": 1.84,
+        "Ground Dominance (AI)": -1.76,
+        "Ranking (AI)": -1.22,
+        "Wrestling Attack": -0.96,
+        "Wrestling Defense": -0.88,
+        "Damage Resistance (AI)": -0.85,
+        "Complex Dominance (AI)": 0.27,
+        "Boxing Attack": -0.24,
+        "Boxing Defense": -0.14,
+        "Kickboxing Defense": -0.13
+      },
+      "hit": 0
+    },
+    {
+      "winner": "Alexander Hernandez",
+      "win_prob": "67.0%",
+      "win_odds": "62.1%",
+      "loser": "Michael Johnson",
+      "lose_prob": "33.0%",
+      "lose_odds": "45.7%",
+      "fair_odds": 1.49,
+      "edge": "7.8%",
+      "shap_groups": {
+        "Age Index (AI)": 4.19,
+        "Ranking (AI)": 3.57,
+        "Striking Dominance (AI)": 2.33,
+        "Boxing Defense": 1.84,
+        "Damage Resistance (AI)": 1.81,
+        "Grappling Attack": -1.46,
+        "Boxing Attack": -1.42,
+        "Ground Dominance (AI)": 1.31,
+        "Kickboxing Attack": 1.05,
+        "Wrestling Attack": -0.73,
+        "Win/Lose Rates": 0.46,
+        "Reach": 0.46,
+        "Kickboxing Defense": 0.25,
+        "Wrestling Defense": -0.16,
+        "Complex Dominance (AI)": -0.1
+      },
+      "hit": -1
+    },
+    {
+      "winner": "Cameron Smotherman",
+      "win_prob": "76.5%",
+      "win_odds": "67.1%",
+      "loser": "Ricky Turcios",
+      "lose_prob": "23.5%",
+      "lose_odds": "41.5%",
+      "fair_odds": 1.31,
+      "edge": "14.0%",
+      "shap_groups": {
+        "Age Index (AI)": 6.51,
+        "Kickboxing Attack": 3.84,
+        "Boxing Defense": 2.5,
+        "Striking Dominance (AI)": 2.35,
+        "Complex Dominance (AI)": 1.14,
+        "Ranking (AI)": 1.08,
+        "Grappling Attack": -0.86,
+        "Ground Dominance (AI)": 0.81,
+        "Damage Resistance (AI)": -0.75,
+        "Reach": 0.68,
+        "Boxing Attack": 0.65,
+        "Wrestling Attack": -0.16,
+        "Wrestling Defense": -0.1,
+        "Win/Lose Rates": -0.09,
+        "Kickboxing Defense": -0.02
+      },
+      "hit": -1
     }
   ]
 }
