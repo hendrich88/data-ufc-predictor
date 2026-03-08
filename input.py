@@ -3,16 +3,16 @@ edge = 0
 min_winner_fights = 0
 min_loser_fights = 0
 
-event_date = "2026-02-07"
-event = "UFC Fight Night: Bautista vs. Oliveira"
+event_date = "2026-02-21"
+event = "UFC Fight Night: Strickland vs. Hernandez"
 
-event_fighters1 = ["Vinicius Oliveira","Jailton Almeida","Michal Oleksiejczuk","Farid Basharat","Dustin Jacoby","Ketlen Souza","Klaudia Sygula"]
-event_fighters2 = ["Mario Bautista","Rizvan Kuniev","Marc-Andre Barriault","Jean Matsumoto","Julius Walker","Bruna Brasil","Priscila Cachoeira"]
+event_fighters1 = ["Anthony Hernandez","Geoff Neal","Melquizael Costa","Serghei Spivac","Michel Pereira","Chidi Njokuani","Joselyne Edwards","Ramiz Brahimaj","Yadier del Valle","Carli Judice"]
+event_fighters2 = ["Sean Strickland","Uros Medic","Dan Ige","Ante Delija","Zach Reese","Carlos Leal","Nora Cornolle","Punahele Soriano","Jordan Leavitt","Juliana Miller"]
 
-odds_fighters1 = [2.38,1.64,1.19,1.34,1.50,1.62,1.63]
-odds_fighters2 = [1.53,2.17,4.17,3.07,2.40,2.18,2.16]
+odds_fighters1 = [1.34,1.44,1.46,2.12,1.61,2.03,1.29,1.78,1.22,1.12]
+odds_fighters2 = [2.99,2.58,2.56,1.66,2.21,1.72,3.32,1.96,3.91,5.41]
 
-hit = [0,0,1,1,0,1,1]
+hit = [0,0,1,1,1,0,1,0,0,1]
 
 event_accuracy = 0
 event_roi = 0
