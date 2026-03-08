@@ -1,37 +1,10 @@
-{
-  "event_date": "2026-01-31",
-  "event": "UFC 325: Volkanovski vs. Lopes 2",
-  "event_accuracy": 0,
-  "event_roi": 0,
-  "event_fights": 1,
-  "fights": [
-    {
-      "winner": "Mauricio Ruffy",
-      "win_prob": "66.2%",
-      "win_odds": "55.6%",
-      "loser": "Rafael Fiziev",
-      "lose_prob": "33.8%",
-      "lose_odds": "52.1%",
-      "fair_odds": 1.51,
-      "edge": "19.1%",
-      "shap_groups": {
-        "Age Index (AI)": 5.51,
-        "Boxing Attack": 3.26,
-        "Damage Resistance (AI)": 2.82,
-        "Striking Dominance (AI)": 2.47,
-        "Ground Dominance (AI)": -1.98,
-        "Boxing Defense": 1.7,
-        "Win/Lose Rates": 1.62,
-        "Grappling Attack": 1.27,
-        "Ranking (AI)": 0.66,
-        "Reach": 0.43,
-        "Complex Dominance (AI)": -0.35,
-        "Wrestling Defense": -0.28,
-        "Wrestling Attack": 0.09,
-        "Kickboxing Attack": -0.05,
-        "Kickboxing Defense": 0
-      },
-      "hit": 1
-    }
-  ]
-}
+event_date = "2026-02-07"
+event = "UFC Fight Night: Bautista vs. Oliveira"
+
+event_fighters1 = ["Vinicius Oliveira","Jailton Almeida","Michal Oleksiejczuk","Farid Basharat","Dustin Jacoby","Ketlen Souza","Klaudia Sygula"]
+event_fighters2 = ["Mario Bautista","Rizvan Kuniev","Marc-Andre Barriault","Jean Matsumoto","Julius Walker","Bruna Brasil","Priscila Cachoeira"]
+
+odds_fighters1 = [2.38,1.64,1.19,1.34,1.50,1.62,1.63]
+odds_fighters2 = [1.53,2.17,4.17,3.07,2.40,2.18,2.16]
+
+hit = [0,0,1,1,0,1,1]
