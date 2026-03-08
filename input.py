@@ -1,4 +1,4 @@
-limit_pred = 50
+limit_pred = 60
 edge = -666666
 min_winner_fights = 0
 min_loser_fights = 0
