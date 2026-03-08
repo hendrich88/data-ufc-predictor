@@ -1,10 +1,121 @@
-event_date = "2026-02-07"
-event = "UFC Fight Night: Bautista vs. Oliveira"
-
-event_fighters1 = ["Vinicius Oliveira","Jailton Almeida","Michal Oleksiejczuk","Farid Basharat","Dustin Jacoby","Ketlen Souza","Klaudia Sygula"]
-event_fighters2 = ["Mario Bautista","Rizvan Kuniev","Marc-Andre Barriault","Jean Matsumoto","Julius Walker","Bruna Brasil","Priscila Cachoeira"]
-
-odds_fighters1 = [2.38,1.64,1.19,1.34,1.50,1.62,1.63]
-odds_fighters2 = [1.53,2.17,4.17,3.07,2.40,2.18,2.16]
-
-hit = [0,0,1,1,0,1,1]
+{
+  "event_date": "2026-02-07",
+  "event": "UFC Fight Night: Bautista vs. Oliveira",
+  "event_accuracy": 0,
+  "event_roi": 0,
+  "event_fights": 4,
+  "fights": [
+    {
+      "winner": "Jailton Almeida",
+      "win_prob": "72.5%",
+      "win_odds": "61.0%",
+      "loser": "Rizvan Kuniev",
+      "lose_prob": "27.5%",
+      "lose_odds": "46.1%",
+      "fair_odds": 1.38,
+      "edge": "18.8%",
+      "shap_groups": {
+        "Ranking (AI)": 3.27,
+        "Age Index (AI)": -3.16,
+        "Complex Dominance (AI)": 2.3,
+        "Win/Lose Rates": 2.18,
+        "Striking Dominance (AI)": 1.78,
+        "Boxing Defense": -1.53,
+        "Wrestling Attack": 1.26,
+        "Ground Dominance (AI)": 1.02,
+        "Grappling Attack": 0.96,
+        "Damage Resistance (AI)": -0.78,
+        "Kickboxing Attack": 0.52,
+        "Reach": 0.49,
+        "Wrestling Defense": -0.48,
+        "Boxing Attack": 0.36,
+        "Kickboxing Defense": 0.22
+      },
+      "hit": 0
+    },
+    {
+      "winner": "Michal Oleksiejczuk",
+      "win_prob": "84.8%",
+      "win_odds": "84.0%",
+      "loser": "Marc-Andre Barriault",
+      "lose_prob": "15.2%",
+      "lose_odds": "24.0%",
+      "fair_odds": 1.18,
+      "edge": "0.9%",
+      "shap_groups": {
+        "Damage Resistance (AI)": 4.03,
+        "Kickboxing Attack": 3.41,
+        "Striking Dominance (AI)": 3.35,
+        "Win/Lose Rates": 3.31,
+        "Boxing Attack": 3.07,
+        "Age Index (AI)": 2.48,
+        "Complex Dominance (AI)": 1.84,
+        "Boxing Defense": 1.3,
+        "Grappling Attack": 1.21,
+        "Ground Dominance (AI)": 1.04,
+        "Ranking (AI)": 0.8,
+        "Reach": 0.32,
+        "Wrestling Defense": 0.17,
+        "Wrestling Attack": 0.09,
+        "Kickboxing Defense": -0.05
+      },
+      "hit": 1
+    },
+    {
+      "winner": "Farid Basharat",
+      "win_prob": "84.2%",
+      "win_odds": "74.6%",
+      "loser": "Jean Matsumoto",
+      "lose_prob": "15.8%",
+      "lose_odds": "32.6%",
+      "fair_odds": 1.19,
+      "edge": "12.8%",
+      "shap_groups": {
+        "Striking Dominance (AI)": 4.7,
+        "Complex Dominance (AI)": 4.35,
+        "Boxing Defense": 4.07,
+        "Ranking (AI)": 2.88,
+        "Kickboxing Attack": 1.24,
+        "Wrestling Attack": 1.23,
+        "Ground Dominance (AI)": 1.13,
+        "Grappling Attack": 0.95,
+        "Damage Resistance (AI)": 0.82,
+        "Age Index (AI)": 0.36,
+        "Reach": -0.36,
+        "Boxing Attack": 0.35,
+        "Win/Lose Rates": 0.25,
+        "Kickboxing Defense": 0.07,
+        "Wrestling Defense": -0.07
+      },
+      "hit": 1
+    },
+    {
+      "winner": "Klaudia Sygula",
+      "win_prob": "68.0%",
+      "win_odds": "61.3%",
+      "loser": "Priscila Cachoeira",
+      "lose_prob": "32.0%",
+      "lose_odds": "46.3%",
+      "fair_odds": 1.47,
+      "edge": "10.9%",
+      "shap_groups": {
+        "Age Index (AI)": 7.33,
+        "Kickboxing Attack": 3.14,
+        "Boxing Defense": 2.24,
+        "Win/Lose Rates": 2.13,
+        "Complex Dominance (AI)": 1.41,
+        "Damage Resistance (AI)": -1.39,
+        "Striking Dominance (AI)": 0.82,
+        "Ranking (AI)": -0.72,
+        "Ground Dominance (AI)": 0.72,
+        "Reach": 0.63,
+        "Boxing Attack": -0.57,
+        "Kickboxing Defense": -0.49,
+        "Wrestling Attack": -0.44,
+        "Wrestling Defense": 0.02,
+        "Grappling Attack": 0
+      },
+      "hit": 1
+    }
+  ]
+}
