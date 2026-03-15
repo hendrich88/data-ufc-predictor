@@ -35,7 +35,7 @@
         "Reach": 0.11,
         "Kickboxing Defense": -0.05
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Gillian Robertson",
@@ -64,7 +64,7 @@
         "Grappling Attack": -0.13,
         "Kickboxing Defense": 0.08
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Oumar Sy",
@@ -93,7 +93,7 @@
         "Wrestling Defense": -0.12,
         "Kickboxing Defense": -0.06
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Jose Delgado",
@@ -122,7 +122,7 @@
         "Wrestling Defense": 0.08,
         "Boxing Attack": -0.02
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Vitor Petrino",
@@ -151,7 +151,7 @@
         "Reach": -0.2,
         "Complex Dominance (AI)": 0.2
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Charles Johnson",
@@ -180,7 +180,7 @@
         "Reach": 0.1,
         "Wrestling Defense": -0.07
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Eryk Anders",
@@ -209,7 +209,7 @@
         "Wrestling Defense": -0.14,
         "Kickboxing Defense": -0.01
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Myktybek Orolbai",
@@ -238,7 +238,7 @@
         "Reach": 0.1,
         "Boxing Defense": 0.1
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "SuYoung You",
@@ -267,7 +267,7 @@
         "Kickboxing Defense": 0.22,
         "Damage Resistance (AI)": 0.19
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Sam Hughes",
@@ -296,7 +296,7 @@
         "Kickboxing Defense": -0.1,
         "Boxing Attack": 0.07
       },
-      "hit": -1
+      "hit": 0
     }
   ]
 }
