@@ -2,10 +2,10 @@
   "year_list": [
     2026
   ],
-  "total_accuracy": 0.717948717948718,
-  "total_roi": 7.46447418925462,
+  "total_accuracy": 0.7436,
+  "total_roi": 11.59,
   "total_fights": 39,
-  "total_hits": 28,
+  "total_hits": 29,
   "year_accuracy": 0.717948717948718,
   "year_roi": 7.46447418925462,
   "year_fights": 39,
@@ -531,8 +531,8 @@
     {
       "event_date": "2026-02-21",
       "event": "UFC Fight Night: Strickland vs. Hernandez",
-      "event_accuracy": 0.5,
-      "event_roi": -21.694684815623948,
+      "event_accuracy": 0.66666667,
+      "event_roi": 5.14,
       "event_fights": 6,
       "fights": [
         {
@@ -645,7 +645,7 @@
             "Wrestling Defense": -0.19,
             "Kickboxing Defense": -0.17
           },
-          "hit": 0
+          "hit": 1
         },
         {
           "winner": "Yadier del Valle",
