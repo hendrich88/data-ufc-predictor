@@ -35,7 +35,7 @@
         "Age Index (AI)": -0.19,
         "Reach": 0.19
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Sam Patterson",
@@ -64,7 +64,7 @@
         "Damage Resistance (AI)": -0.01,
         "Kickboxing Defense": -0.01
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Iwo Baraniewski",
@@ -93,7 +93,7 @@
         "Kickboxing Defense": -0.11,
         "Ground Dominance (AI)": -0.05
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Christian Leroy Duncan",
@@ -122,7 +122,7 @@
         "Damage Resistance (AI)": -0.27,
         "Reach": 0.22
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Melissa Mullins",
