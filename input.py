@@ -12,8 +12,8 @@ event_fighters1 = ["Israel Adesanya", "Alexa Grasso", "Michael Chiesa", "Mansur 
 event_fighters2 =  ["Joe Pyfer", "Maycee Barber", "Niko Price", "Yousri Belgaroui", "Kyle Nelson", "Gabriella Fernandes", "Bruno Lopes",
                   "Adrian Yanez", "Bruna Brasil"] 
 
-odds_fighters1 = [1.60, 2.06, None, 1.77, 1.67, 2.00, 1.21, 1.57, 1.16]
-odds_fighters2 = [2.20, 1.69, None, 1.95, 2.10, 1.73, 3.84, 2.25, 4.54]
+odds_fighters1 = [1.60, 2.06, 1.20, 1.77, 1.67, 2.00, 1.21, 1.57, 1.16]
+odds_fighters2 = [2.20, 1.69, 3.98, 1.95, 2.10, 1.73, 3.84, 2.25, 4.54]
 
 hit = [-1,-1,-1,-1,-1,-1,-1,-1,-1]
 
