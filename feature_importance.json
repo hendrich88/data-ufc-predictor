@@ -1,0 +1,138 @@
+[
+  {
+    "Feature Name": "Age Index (AI)",
+    "SHAP Value": 0.043627
+  },
+  {
+    "Feature Name": "Ranking (AI)",
+    "SHAP Value": 0.040561
+  },
+  {
+    "Feature Name": "Average Adjusted Complex Dominance (AI)",
+    "SHAP Value": 0.035005
+  },
+  {
+    "Feature Name": "Average Adjusted Striking Dominance (AI)",
+    "SHAP Value": 0.034080
+  },
+  {
+    "Feature Name": "Average Striking Dominance (AI)",
+    "SHAP Value": 0.030987
+  },
+  {
+    "Feature Name": "Significant Strikes Head Landed",
+    "SHAP Value": 0.030809
+  },
+  {
+    "Feature Name": "Accuracy Significant Strikes Distance Landed",
+    "SHAP Value": 0.030536
+  },
+  {
+    "Feature Name": "Average Submission Attempt",
+    "SHAP Value": 0.030285
+  },
+  {
+    "Feature Name": "Average Control Defense",
+    "SHAP Value": 0.029900
+  },
+  {
+    "Feature Name": "Self Damage (AI)",
+    "SHAP Value": 0.029886
+  },
+  {
+    "Feature Name": "Average Adjusted Control Maintained per Minute",
+    "SHAP Value": 0.029793
+  },
+  {
+    "Feature Name": "Ratio Significant Strikes Defense",
+    "SHAP Value": 0.029233
+  },
+  {
+    "Feature Name": "Average Adjusted Submission Attempt per Minute",
+    "SHAP Value": 0.029074
+  },
+  {
+    "Feature Name": "Average Complex Dominance (AI)",
+    "SHAP Value": 0.029039
+  },
+  {
+    "Feature Name": "Average Adjusted Ground Dominance (AI)",
+    "SHAP Value": 0.028863
+  },
+  {
+    "Feature Name": "Average Adjusted Accuracy Significant Strikes Head Defense",
+    "SHAP Value": 0.028819
+  },
+  {
+    "Feature Name": "Ratio Significant Strikes head Defense",
+    "SHAP Value": 0.028539
+  },
+  {
+    "Feature Name": "Average Adjusted Significant Strikes Body Defense",
+    "SHAP Value": 0.028491
+  },
+  {
+    "Feature Name": "Ratio Submission Attempt",
+    "SHAP Value": 0.028255
+  },
+  {
+    "Feature Name": "Ratio Knockdown Landed",
+    "SHAP Value": 0.028216
+  },
+  {
+    "Feature Name": "Reach",
+    "SHAP Value": 0.028154
+  },
+  {
+    "Feature Name": "Reversion Landed",
+    "SHAP Value": 0.028113
+  },
+  {
+    "Feature Name": "Average Adjusted Knockdown Defense",
+    "SHAP Value": 0.027916
+  },
+  {
+    "Feature Name": "Balance Damage (AI)",
+    "SHAP Value": 0.027608
+  },
+  {
+    "Feature Name": "Average Ground Dominance (AI)",
+    "SHAP Value": 0.027604
+  },
+  {
+    "Feature Name": "Average Adjusted Takedown Landed per Minute",
+    "SHAP Value": 0.027291
+  },
+  {
+    "Feature Name": "Average Adjusted Takedown Defense per Minute",
+    "SHAP Value": 0.027169
+  },
+  {
+    "Feature Name": "Average Adjusted Knockdown Landed per Minute",
+    "SHAP Value": 0.027004
+  },
+  {
+    "Feature Name": "Average Adjusted Reversion Landed per Minute",
+    "SHAP Value": 0.026713
+  },
+  {
+    "Feature Name": "Ratio Significant Strikes Body Landed",
+    "SHAP Value": 0.025988
+  },
+  {
+    "Feature Name": "Ratio Reversion Landed per Minute",
+    "SHAP Value": 0.025931
+  },
+  {
+    "Feature Name": "Loss Rate",
+    "SHAP Value": 0.025908
+  },
+  {
+    "Feature Name": "Accuracy Significant Strikes Body Landed",
+    "SHAP Value": 0.025524
+  },
+  {
+    "Feature Name": "Win Rate",
+    "SHAP Value": 0.025082
+  }
+]
