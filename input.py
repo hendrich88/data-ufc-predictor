@@ -3,19 +3,19 @@ edge = -666
 min_winner_fights = 0
 min_loser_fights = 0
 
-event_date = "2026-03-28"
-event = "UFC Fight Night: Adesanya vs. Pyfer"
+event_date = "2026-03-10"
+event = "UFC Fight Night: Emmett vs. Vallejos"
 
-event_fighters1 = ["Israel Adesanya", "Alexa Grasso", "Michael Chiesa", "Mansur Abdul-Malik", "Terrance McKinney", "Casey O'Neill", "Navajo Stirling",
-                  "Ricky Simon", "Alexia Thainara"] 
+event_fighters1 = ["Josh Emmett", "Amanda Lemos", "Ion Cutelaba", "Andre Fili", "Vitor Petrino", "Charles Johnson", "Brad Tavares",
+                   "Chris Curtis", "Elijah Smith", "Piera Rodriguez"] 
 
-event_fighters2 =  ["Joe Pyfer", "Maycee Barber", "Niko Price", "Yousri Belgaroui", "Kyle Nelson", "Gabriella Fernandes", "Bruno Lopes",
-                  "Adrian Yanez", "Bruna Brasil"] 
+event_fighters2 = ["Kevin Vallejos", "Gillian Robertson", "Oumar Sy", "Jose Delgado", "Steven Asplund", "Bruno Silva", "Eryk Anders",
+                   "Myktybek Orolbai", "SuYoung You", "Sam Hughes"]
 
-odds_fighters1 = [1.60, 2.06, 1.20, 1.77, 1.67, 2.00, 1.21, 1.57, 1.16]
-odds_fighters2 = [2.20, 1.69, 3.98, 1.95, 2.10, 1.73, 3.84, 2.25, 4.54]
+odds_fighters1 = [4.56, 2.44, 2.58, 3.11, 1.41, 1.46, 1.69, 2.97, 1.51, 1.63]
+odds_fighters2 = [1.16, 1.48, 1.43, 1.30, 2.64, 2.50, 2.06, 1.33, 2.38, 2.16]
 
-hit = [-1,-1,-1,-1,-1,-1,-1,-1,-1]
+hit = [-1, -1,-1,-1,-1,-1,-1,-1,-1,-1]
 
 event_accuracy = 0
 event_roi = 0
