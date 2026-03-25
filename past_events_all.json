@@ -693,6 +693,34 @@
       "event_fights": 5,
       "fights": [
         {
+          "winner": "Lone'er Kavanagh",
+          "win_prob": "56.3%",
+          "win_odds": "35.7%",
+          "loser": "Brandon Moreno",
+          "lose_prob": "43.7%",
+          "lose_odds": "67.6%",
+          "fair_odds": 1.78,
+          "edge": "57.7%",
+          "shap_groups": {
+            "Age Index (AI)": 7.16,
+            "Ranking (AI)": -4.58,
+            "Striking Dominance (AI)": 3.31,
+            "Kickboxing Defense": -2.78,
+            "Win/Lose Rates": 2.58,
+            "Boxing Defense": -2.23,
+            "Complex Dominance (AI)": 1.58,
+            "Grappling Attack": 1.4,
+            "Damage Resistance (AI)": 1.11,
+            "Ground Dominance (AI)": 0.97,
+            "Reach": -0.79,
+            "Boxing Attack": 0.67,
+            "Wrestling Attack": -0.46,
+            "Kickboxing Attack": 0.23,
+            "Wrestling Defense": 0.13
+          },
+          "hit": 1
+        },
+        {
           "winner": "David Martinez",
           "win_prob": "62.5%",
           "win_odds": "74.1%",
