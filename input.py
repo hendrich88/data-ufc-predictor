@@ -13,7 +13,7 @@ event_fighters2 =  ["Chris Duncan", "Tabatha Ricci", "Brendson Ribeiro", "Stewar
 odds_fighters1 = [2.48, 2.02, 1.05, 1.22, 1.45, 1.16, 1.70]
 odds_fighters2 = [1.47, 1.71, 7.69, 3.74, 2.52, 4.61, 2.05]
 
-hit = [-1,-1-1,-1, -1,-1,-1]
+hit = [0,11,1, 1,1,1]
 
 event_accuracy = 0
 event_roi = 0
