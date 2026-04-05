@@ -31,7 +31,7 @@
         "Kickboxing Attack": -0.17,
         "Wrestling Defense": 0.01
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Virna Jandiroba",
@@ -59,7 +59,7 @@
         "Damage Resistance (AI)": -0.17,
         "Complex Dominance (AI)": 0.07
       },
-      "hit": -2
+      "hit": 1
     },
     {
       "winner": "Abdul Rakhman Yakhyaev",
@@ -87,7 +87,7 @@
         "Wrestling Attack": 0.01,
         "Wrestling Defense": 0.01
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Alessandro Costa",
@@ -115,7 +115,7 @@
         "Kickboxing Defense": 0.18,
         "Reach": 0.17
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Lando Vannata",
@@ -143,7 +143,7 @@
         "Kickboxing Defense": 0.11,
         "Wrestling Attack": -0.03
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Azamat Bekoev",
@@ -171,7 +171,7 @@
         "Kickboxing Defense": -0.15,
         "Wrestling Defense": 0.09
       },
-      "hit": -1
+      "hit": 0
     }
   ]
 }
