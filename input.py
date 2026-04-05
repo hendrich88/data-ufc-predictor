@@ -3,17 +3,19 @@ edge = -666
 min_winner_fights = 0
 min_loser_fights = 0
 
-event_date = "2026-04-04"
-event = "UFC Fight Night: Moicano vs. Duncan"
+event_date = "2026-04-11"
+event = "UFC 327: Prochazka vs. Ulberg"
 
-event_fighters1 = ["Renato Moicano", "Virna Jandiroba", "Abdul Rakhman Yakhyaev", "Alessandro Costa", "Lando Vannata", "Azamat Bekoev", "Dione Barbosa"] 
+event_fighters1 = ["Jiri Prochazka", "Joshua Van", "Curtis Blaydes", "Dominick Reyes", "Azamat Murzakanov", "Cub Swanson", "Mateusz Gamrot",
+                  "Kevin Holland", "Tatiana Suarez", "Kelvin Gastelum"] 
 
-event_fighters2 =  ["Chris Duncan", "Tabatha Ricci", "Brendson Ribeiro", "Stewart Nicoll", "Darrius Flowers", "Tresean Gore", "Melissa Gatto"] 
+event_fighters2 =  ["Carlos Ulberg", "Tatsuro Taira", "Josh Hokit", "Johnny Walker", "Paulo Costa", "Nate Landwehr", "Esteban Ribovics",
+                  "Randy Brown", "Loopy Godinez", "Vicente Luque"] 
 
-odds_fighters1 = [2.48, 2.02, 1.05, 1.22, 1.45, 1.16, 1.70]
-odds_fighters2 = [1.47, 1.71, 7.69, 3.74, 2.52, 4.61, 2.05]
+odds_fighters1 = []
+odds_fighters2 = []
 
-hit = [0,11,1, 1,1,1]
+hit = []
 
 event_accuracy = 0
 event_roi = 0
