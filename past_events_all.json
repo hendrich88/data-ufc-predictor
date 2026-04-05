@@ -159,6 +159,34 @@
           "hit": 0
         },
         {
+          "winner": "Dione Barbosa",
+          "win_prob": "61.3%",
+          "win_odds": "50.0%",
+          "loser": "Melissa Gatto",
+          "lose_prob": "38.7%",
+          "lose_odds": "50.0%",
+          "fair_odds": 1.63,
+          "edge": "22.5%",
+          "shap_groups": {
+            "Win/Loss Rates": 3.71,
+            "Kickboxing Attack": 3.15,
+            "Ground Dominance (AI)": 2.57,
+            "Grappling Attack": 2.11,
+            "Boxing Attack": -1.95,
+            "Boxing Defense": -1.85,
+            "Complex Dominance (AI)": -1.67,
+            "Age Index (AI)": -0.79,
+            "Ranking (AI)": 0.75,
+            "Kickboxing Defense": 0.58,
+            "Striking Dominance (AI)": -0.49,
+            "Wrestling Defense": -0.43,
+            "Reach": -0.38,
+            "Damage Resistance (AI)": 0.27,
+            "Wrestling Attack": -0.21
+          },
+          "hit": 1
+        },
+        {
           "winner": "Azamat Bekoev",
           "win_prob": "62.7%",
           "win_odds": "86.2%",
