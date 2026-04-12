@@ -31,7 +31,7 @@
         "Reach": 0.18,
         "Kickboxing Attack": 0.09
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Josh Hokit",
@@ -59,7 +59,7 @@
         "Ground Dominance (AI)": 0.93,
         "Wrestling Defense": -0.01
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Johnny Walker",
@@ -87,7 +87,7 @@
         "Wrestling Attack": 0.11,
         "Kickboxing Defense": 0
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Azamat Murzakanov",
@@ -115,7 +115,7 @@
         "Wrestling Defense": -0.21,
         "Reach": 0.2
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Cub Swanson",
@@ -143,7 +143,7 @@
         "Damage Resistance (AI)": 0.14,
         "Reach": -0.12
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Mateusz Gamrot",
@@ -171,7 +171,7 @@
         "Striking Dominance (AI)": 0.34,
         "Reach": 0.2
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Randy Brown",
@@ -199,7 +199,7 @@
         "Striking Dominance (AI)": 0.31,
         "Complex Dominance (AI)": 0.11
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Loopy Godinez",
@@ -227,7 +227,7 @@
         "Boxing Attack": 0.52,
         "Wrestling Defense": -0.23
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Kelvin Gastelum",
@@ -255,7 +255,7 @@
         "Damage Resistance (AI)": 0.2,
         "Age Index (AI)": 0.02
       },
-      "hit": -1
+      "hit": 0
     }
   ]
 }
