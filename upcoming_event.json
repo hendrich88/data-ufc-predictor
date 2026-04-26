@@ -31,7 +31,7 @@
         "Wrestling Defense": -0.03,
         "Kickboxing Defense": 0.01
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Norma Dumont",
@@ -59,7 +59,7 @@
         "Wrestling Attack": 0.08,
         "Reach": -0.02
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Rafa Garcia",
@@ -87,7 +87,7 @@
         "Boxing Attack": -0.21,
         "Kickboxing Defense": 0.03
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Montel Jackson",
@@ -115,7 +115,7 @@
         "Age Index (AI)": -0.16,
         "Wrestling Defense": -0.11
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Ryan Spann",
@@ -143,7 +143,7 @@
         "Wrestling Defense": -0.19,
         "Reach": 0.18
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Rodolfo Vieira",
@@ -171,7 +171,7 @@
         "Damage Resistance (AI)": 0.05,
         "Wrestling Defense": 0.01
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Sedriques Dumas",
@@ -199,7 +199,7 @@
         "Reach": 0.19,
         "Wrestling Defense": -0.05
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Lucas Rocha",
@@ -255,7 +255,7 @@
         "Kickboxing Defense": -0.28,
         "Win/Loss Rates": -0.13
       },
-      "hit": -1
+      "hit": 0
     }
   ]
 }
