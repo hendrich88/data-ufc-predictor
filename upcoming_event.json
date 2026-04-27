@@ -3,7 +3,7 @@
   "event": "UFC Fight Night: Della Maddalena vs. Prates",
   "event_accuracy": 0,
   "event_roi": 0,
-  "event_fights": 9,
+  "event_fights": 10,
   "fights": [
     {
       "winner": "Jack Della Maddalena",
@@ -118,14 +118,42 @@
       "hit": -1
     },
     {
+      "winner": "Cam Rowston",
+      "win_prob": "72.2%",
+      "win_odds": "70.4%",
+      "loser": "Robert Bryczek",
+      "lose_prob": "27.8%",
+      "lose_odds": "38.3%",
+      "fair_odds": 1.38,
+      "edge": "2.6%",
+      "shap_groups": {
+        "Win/Loss Rates": -4.39,
+        "Ranking (AI)": 3.11,
+        "Age Index (AI)": 2.99,
+        "Striking Dominance (AI)": 2.74,
+        "Complex Dominance (AI)": 2.73,
+        "Kickboxing Attack": 2.03,
+        "Boxing Attack": 1.46,
+        "Kickboxing Defense": 0.92,
+        "Damage Resistance (AI)": 0.9,
+        "Boxing Defense": -0.78,
+        "Wrestling Defense": -0.57,
+        "Ground Dominance (AI)": -0.34,
+        "Grappling Attack": 0.32,
+        "Reach": -0.11,
+        "Wrestling Attack": 0.03
+      },
+      "hit": -1
+    },
+    {
       "winner": "Junior Tafa",
       "win_prob": "64.4%",
-      "win_odds": "70.4%",
+      "win_odds": "65.4%",
       "loser": "Kevin Christian",
       "lose_prob": "35.6%",
-      "lose_odds": "38.3%",
+      "lose_odds": "42.9%",
       "fair_odds": 1.55,
-      "edge": "-8.6%",
+      "edge": "-1.5%",
       "shap_groups": {
         "Damage Resistance (AI)": 3.18,
         "Striking Dominance (AI)": 3.08,
@@ -148,12 +176,12 @@
     {
       "winner": "Jacob Malkoun",
       "win_prob": "80.6%",
-      "win_odds": "65.4%",
+      "win_odds": "92.6%",
       "loser": "Gerald Meerschaert",
       "lose_prob": "19.4%",
-      "lose_odds": "42.9%",
+      "lose_odds": "16.3%",
       "fair_odds": 1.24,
-      "edge": "23.3%",
+      "edge": "-13.0%",
       "shap_groups": {
         "Damage Resistance (AI)": 2.69,
         "Ranking (AI)": 2.63,
@@ -176,12 +204,12 @@
     {
       "winner": "Colby Thicknesse",
       "win_prob": "53.5%",
-      "win_odds": "92.6%",
+      "win_odds": "62.5%",
       "loser": "Vince Morales",
       "lose_prob": "46.5%",
-      "lose_odds": "16.3%",
+      "lose_odds": "45.5%",
       "fair_odds": 1.87,
-      "edge": "-42.2%",
+      "edge": "-14.4%",
       "shap_groups": {
         "Age Index (AI)": 4.67,
         "Grappling Attack": -4.19,
@@ -204,12 +232,12 @@
     {
       "winner": "Jonathan Micallef",
       "win_prob": "53.0%",
-      "win_odds": "62.5%",
+      "win_odds": "78.7%",
       "loser": "Themba Gorimbo",
       "lose_prob": "47.0%",
-      "lose_odds": "45.5%",
+      "lose_odds": "29.9%",
       "fair_odds": 1.89,
-      "edge": "-15.2%",
+      "edge": "-32.7%",
       "shap_groups": {
         "Grappling Attack": 3.99,
         "Win/Loss Rates": 3.46,
@@ -232,12 +260,12 @@
     {
       "winner": "Dom Mar Fan",
       "win_prob": "78.7%",
-      "win_odds": "78.7%",
+      "win_odds": "38.9%",
       "loser": "Kody Steele",
       "lose_prob": "21.3%",
-      "lose_odds": "29.9%",
+      "lose_odds": "69.9%",
       "fair_odds": 1.27,
-      "edge": "-0.1%",
+      "edge": "102.1%",
       "shap_groups": {
         "Striking Dominance (AI)": 2.89,
         "Complex Dominance (AI)": 2.71,
