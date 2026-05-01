@@ -15,7 +15,7 @@ event_fighters2 =   ["Carlos Prates", "Quillan Salkilld", "Steve Erceg", "Brando
 odds_fighters1 = [1.92, 4.13, 3.59, 2.08, 1.42, 1.53, 1.08, 1.60, 1.27, 2.57, 1.46]
 odds_fighters2 = [1.80, 1.19, 1.24, 1.68, 2.61, 2.33, 6.14, 2.20, 3.35, 1.43, 2.71]
 
-hit = [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
+hit = [-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1]
 
 event_accuracy = 0
 event_roi = 0
