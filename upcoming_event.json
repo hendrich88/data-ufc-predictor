@@ -31,7 +31,7 @@
         "Damage Resistance (AI)": -0.08,
         "Wrestling Attack": -0.01
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Quillan Salkilld",
@@ -59,7 +59,7 @@
         "Reach": 0.07,
         "Kickboxing Attack": 0.07
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Tim Elliott",
@@ -87,7 +87,7 @@
         "Win/Loss Rates": -0.11,
         "Reach": 0.09
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Brando Pericic",
@@ -115,7 +115,7 @@
         "Reach": 0.2,
         "Wrestling Defense": 0.03
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Cam Rowston",
@@ -143,7 +143,7 @@
         "Reach": -0.05,
         "Wrestling Attack": 0.05
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Junior Tafa",
@@ -171,7 +171,7 @@
         "Win/Loss Rates": 0.1,
         "Kickboxing Defense": -0.1
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Jacob Malkoun",
@@ -199,7 +199,7 @@
         "Wrestling Defense": 0.07,
         "Grappling Attack": 0
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Colby Thicknesse",
@@ -227,7 +227,7 @@
         "Boxing Attack": 0.1,
         "Kickboxing Defense": 0.03
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Jonathan Micallef",
@@ -255,7 +255,7 @@
         "Boxing Defense": -0.23,
         "Kickboxing Defense": -0.04
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Dom Mar Fan",
@@ -283,7 +283,36 @@
         "Reach": 0.14,
         "Win/Loss Rates": 0.08
       },
-      "hit": -1
+      "hit": 0
+    },
+
+        {
+      "winner": "Louie Sutherland",
+      "win_prob": "66.7%",
+      "win_odds": "36.9%",
+      "loser": "Tai Tuivasa",
+      "lose_prob": "33.3%",
+      "lose_odds": "68.5%",
+      "fair_odds": 1.50,
+      "edge": "80.8%",
+      "shap_groups": {
+        "Damage Resistance (AI)": 3.6,
+        "Striking Dominance (AI)": 3.5,
+        "Boxing Defense": 2.1,
+        "Ranking (AI)": -2.0,
+        "Kickboxing Defense": 1.7,
+        "Grappling Attack": 0.8,
+        "Win/Loss Rates": -0.7,
+        "Kickboxing Attack": 0.5,
+        "Age Index (AI)": -0.3,
+        "Reach": -0.3,
+        "Wrestling Attack": 0.2,
+        "Ground Dominance (AI)": -0.2,
+        "Boxing Attack": 0.1,
+        "Wrestling Defense": 0.1,
+        "Complex Dominance (AI)": 0.0
+      },
+      "hit": 1
     }
   ]
 }
