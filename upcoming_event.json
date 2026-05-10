@@ -31,7 +31,7 @@
         "Reach": -0.06,
         "Round Dominance (AI)": -0.01
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Tatsuro Taira",
@@ -59,7 +59,7 @@
         "Round Dominance (AI)": 0.08,
         "Finish Rate": -0.08
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Alexander Volkov",
@@ -87,7 +87,7 @@
         "Grappling Attack": -0.12,
         "Boxing Defense": 0.07
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Sean Brady",
@@ -115,7 +115,7 @@
         "Grappling Defense": -0.23,
         "Wrestling Defense": 0.06
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "King Green",
@@ -143,7 +143,7 @@
         "Kickboxing Defense": -0.14,
         "Reach": -0.07
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Ateba Gautier",
@@ -171,7 +171,7 @@
         "Reach": 0.12,
         "Finish Rate": 0.04
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Grant Dawson",
@@ -199,7 +199,7 @@
         "Grappling Attack": 0.3,
         "Wrestling Defense": -0.28
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Jared Gordon",
@@ -227,7 +227,7 @@
         "Striking Dominance (AI)": -0.13,
         "Ground Dominance (AI)": -0.08
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Marco Tulio",
@@ -255,7 +255,7 @@
         "Striking Dominance (AI)": -0.21,
         "Ground Dominance (AI)": -0.13
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Pat Sabatini",
@@ -283,7 +283,7 @@
         "Boxing Attack": -0.24,
         "Kickboxing Attack": -0.02
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Baisangur Susurkaev",
@@ -311,7 +311,7 @@
         "Wrestling Attack": 0.18,
         "Striking Dominance (AI)": 0.07
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Clayton Carpenter",
@@ -339,7 +339,7 @@
         "Striking Dominance (AI)": -0.05,
         "Reach": 0
       },
-      "hit": -1
+      "hit": 0
     }
   ]
 }
