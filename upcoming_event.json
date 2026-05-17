@@ -31,7 +31,7 @@
         "Grappling Defense": -0.37,
         "Reach": 0.29
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Daniel Santos",
@@ -59,7 +59,7 @@
         "Grappling Attack": -0.09,
         "Reach": 0.03
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Rodolfo Bellato",
@@ -115,7 +115,7 @@
         "Grappling Defense": -0.3,
         "Grappling Attack": 0.14
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Tuco Tokkos",
@@ -143,7 +143,7 @@
         "Finish Rate": -0.04,
         "Boxing Defense": -0.02
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Jacqueline Cavalcanti",
@@ -171,7 +171,7 @@
         "Boxing Defense": 0.21,
         "Reach": -0.05
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Andre Petroski",
@@ -199,7 +199,7 @@
         "Boxing Defense": -0.14,
         "Reach": 0.04
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Alice Ardelean",
@@ -227,7 +227,7 @@
         "Striking Dominance (AI)": -0.35,
         "Wrestling Attack": 0.29
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Luis Gurule",
@@ -255,7 +255,7 @@
         "Grappling Attack": 0.09,
         "Striking Dominance (AI)": 0.03
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Nicolle Caliari",
@@ -283,7 +283,7 @@
         "Grappling Defense": -0.05,
         "Striking Dominance (AI)": -0.04
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Khaos Williams",
@@ -311,7 +311,7 @@
         "Finish Rate": 0.11,
         "Striking Dominance (AI)": -0.03
       },
-      "hit": -1
+      "hit": 1
     }
   ]
 }
