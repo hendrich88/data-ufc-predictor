@@ -6,40 +6,18 @@ min_loser_fights = 0
 event_date = "2026-05-30"
 event = "UFC Fight Night: Song vs. Figueiredo"
 
-event_fighters1 = ["Song Yadong", "Zhang Mingyang", "Sergei Pavlovich", "Kai Asakura", "Muslim Salikhov", "Alex Perez", "Aoriqileng",
-                   "Rei Tsuruya", "Zhu Kangjie", "Loma Lookboonmee"] 
+event_fighters1 = ["Song Yadong", "Zhang Mingyang", "Sergei Pavlovich", "Kai Asakura", "Carlston Harris", "Alex Perez", "Aoriqileng",
+                   "Rei Tsuruya", "Loma Lookboonmee"] 
 
 event_fighters2 =   ["Deiveson Figueiredo", "Alonzo Menifield", "Tallison Teixeira", "Cameron Smotherman", "Jake Matthews", "Sumudaerji", "Cody Haddon",
-                   "Jesus Aguilar", "Ramon Taveras", "Jaqueline Amorim"] 
+                   "Luis Gurule", "Jaqueline Amorim"] 
 
-odds_fighters1 = [
-    1.22,  # Song Yadong
-    1.42,  # Zhang Mingyang
-    1.23,  # Sergei Pavlovich
-    1.29,  # Kai Asakura
-    None,  # Muslim Salikhov
-    1.74,  # Alex Perez
-    3.35,  # Aoriqileng
-    1.30,  # Rei Tsuruya
-    2.30,  # Zhu Kangjie
-    2.14   # Loma Lookboonmee
-]
+odds_fighters1 = [1.15, 1.36, 1.15, 1.32, 3.28, 1.68, 3.48, 1.40, 1.97]
 
-odds_fighters2 = [
-    3.75,  # Deiveson Figueiredo
-    2.60,  # Alonzo Menifield
-    3.68,  # Tallison Teixeira
-    3.17,  # Cameron Smotherman
-    None,  # Jake Matthews
-    1.98,  # Sumudaerji
-    1.27,  # Cody Haddon
-    3.13,  # Jesus Aguilar
-    1.55,  # Ramon Taveras
-    1.64   # Jaqueline Amorim
-]
+odds_fighters2 = [4.83, 2.85, 4.81, 3.09, 1.29, 2.11, 1.25, 2.66, 1.76]
 
 hit = [-1, -1, -1, -1, -1, -1, -1, 
-       -1, -1, -1]
+       -1, -1]
 
 event_accuracy = 0
 event_roi = 0
