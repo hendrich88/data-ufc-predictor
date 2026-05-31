@@ -38,6 +38,7 @@ odds_fighters2 = [
     1.79,  # Chandler
     1.52,  # Brito
     2.90   # Carnelossi
+]
 
 hit = [-1, -1, -1, -1, -1, -1, -1, 
        -1, -1, -1, -1]
