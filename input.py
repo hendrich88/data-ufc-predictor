@@ -37,7 +37,7 @@ odds_fighters2 = [
 ]
 
 hit = [-1, -1, -1, -1, -1, -1, -1, 
-       -1, -1, -1, -1]
+       -1, -1]
 
 event_accuracy = 0
 event_roi = 0
