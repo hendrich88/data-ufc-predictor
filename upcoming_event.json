@@ -31,7 +31,7 @@
         "Reach": 0.16,
         "Striking Dominance (AI)": 0.02
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Zhang Mingyang",
@@ -59,7 +59,7 @@
         "Finish Rate": 0.01,
         "Kickboxing Attack": 0.01
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Tallison Teixeira",
@@ -87,7 +87,7 @@
         "Grappling Defense": -0.45,
         "Finish Rate": -0.05
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Cameron Smotherman",
@@ -115,7 +115,7 @@
         "Ground Dominance (AI)": 0.06,
         "Finish Rate": 0.01
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Jake Matthews",
@@ -143,7 +143,7 @@
         "Grappling Defense": -0.12,
         "Wrestling Defense": -0.08
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Sumudaerji",
@@ -199,7 +199,7 @@
         "Grappling Attack": 0.17,
         "Reach": -0.01
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Rei Tsuruya",
@@ -227,7 +227,7 @@
         "Wrestling Defense": 0.19,
         "Grappling Defense": 0.12
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Jaqueline Amorim",
@@ -255,7 +255,7 @@
         "Boxing Defense": -0.08,
         "Finish Rate": -0.02
       },
-      "hit": -1
+      "hit": 1
     }
   ]
 }
