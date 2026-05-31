@@ -6,19 +6,17 @@ min_loser_fights = 0
 event_date = "2026-06-06"
 event = "UFC Fight Night: Muhammad vs. Bonfim"
 
-event_fighters1 = ["Belal Muhammad", "Brendan Allen", "Fares Ziam", "Bryce Mitchell", "Iwo Baraniewski", "Matt Schnell", "Marcus McGhee",
+event_fighters1 = ["Belal Muhammad", "Brendan Allen", "Fares Ziam",  "Iwo Baraniewski", "Marcus McGhee",
                    "Bruno Silva", "Priscila Cachoeira", "Jordan Leavitt", "Ketlen Souza"] 
 
-event_fighters2 =   ["Gabriel Bonfim", "Edmen Shahbazyan", "Tom Nolan", "Santiago Luna", "Junior Tafa", "Alessandro Costa", "John Yannis",
+event_fighters2 =   ["Gabriel Bonfim", "Edmen Shahbazyan", "Tom Nolan",  "Junior Tafa", "John Yannis",
                    "Edgar Chairez", "Chelsea Chandler", "Joanderson Brito", "Ariane Carnelossi"]  
 
 odds_fighters1 = [
     1.76,  # Muhammad
     1.39,  # Allen
     1.31,  # Ziam
-    None,  # Mitchell (kurz není v dodaném seznamu)
     1.31,  # Baraniewski
-    None,  # Schnell (kurz není v dodaném seznamu)
     1.18,  # McGhee
     1.74,  # Silva
     2.90,  # Cachoeira
@@ -30,9 +28,7 @@ odds_fighters2 = [
     1.96,  # Bonfim
     2.71,  # Shahbazyan
     3.10,  # Nolan
-    None,  # Luna (kurz není v dodaném seznamu)
     3.05,  # Tafa
-    None,  # Costa (kurz není v dodaném seznamu)
     4.24,  # Yannis
     2.00,  # Chairez
     1.79,  # Chandler
