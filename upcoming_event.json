@@ -31,7 +31,7 @@
         "Reach": -0.18,
         "Grappling Defense": -0.01
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Brendan Allen",
@@ -59,7 +59,7 @@
         "Wrestling Defense": -0.16,
         "Reach": -0.11
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Fares Ziam",
@@ -87,7 +87,7 @@
         "Wrestling Defense": 0.06,
         "Striking Dominance (AI)": -0.04
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Iwo Baraniewski",
@@ -115,7 +115,7 @@
         "Grappling Defense": -0.27,
         "Reach": 0.15
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Marcus McGhee",
@@ -143,7 +143,7 @@
         "Reach": -0.08,
         "Grappling Attack": -0.05
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Bruno Silva",
@@ -171,7 +171,7 @@
         "Ranking (AI)": 0.21,
         "Reach": 0.03
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Chelsea Chandler",
@@ -199,7 +199,7 @@
         "Grappling Defense": -0.32,
         "Striking Dominance (AI)": -0.25
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Joanderson Brito",
@@ -227,7 +227,7 @@
         "Reach": -0.27,
         "Finish Rate": 0.08
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Ketlen Souza",
@@ -255,7 +255,7 @@
         "Finish Rate": 0.12,
         "Striking Dominance (AI)": -0.11
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Santiago Luna",
@@ -283,7 +283,7 @@
         "Grappling Defense": -0.1,
         "Reach": -0.07
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Alessandro Costa",
@@ -311,7 +311,7 @@
         "Grappling Defense": -0.28,
         "Striking Dominance (AI)": -0.1
       },
-      "hit": -1
+      "hit": 1
     }
   ]
 }
