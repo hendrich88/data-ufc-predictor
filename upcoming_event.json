@@ -31,7 +31,7 @@
         "Boxing Defense": 0.19,
         "Reach": -0.06
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Ciryl Gane",
@@ -59,7 +59,7 @@
         "Striking Dominance (AI)": 0.08,
         "Grappling Defense": 0.03
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Sean O'Malley",
@@ -87,7 +87,7 @@
         "Wrestling Attack": 0.09,
         "Wrestling Defense": 0.01
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Josh Hokit",
@@ -115,7 +115,7 @@
         "Grappling Defense": -0.16,
         "Striking Dominance (AI)": 0.09
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Mauricio Ruffy",
@@ -143,7 +143,7 @@
         "Grappling Defense": -0.14,
         "Striking Dominance (AI)": 0.1
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Bo Nickal",
@@ -171,7 +171,7 @@
         "Grappling Defense": -0.14,
         "Reach": 0.04
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Diego Lopes",
@@ -199,7 +199,7 @@
         "Striking Dominance (AI)": -0.2,
         "Boxing Defense": 0.19
       },
-      "hit": -1
+      "hit": 1
     }
   ]
 }
