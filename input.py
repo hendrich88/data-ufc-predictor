@@ -13,26 +13,31 @@ event_fighters2 =   ["Kyoji Horiguchi", "Navajo Stirling", "Andre Fili",  "Chris
                   "Michael Aswell Jr.", "Luana Santos"] 
 
 odds_fighters1 = [
-    1.16,  # Topuria
-    1.89,  # Pereira
-    1.21,  # O'Malley
-    1.22,  # Hokit
-    1.13,  # Ruffy
-    1.26,  # Nickal
-    1.58   # Lopes
+    1.58,  # Manel Kape
+    3.13,  # Ion Cutelaba
+    1.38,  # Vinicius Oliveira
+    2.22,  # Hyder Amil
+    1.15,  # Andre Lima
+    1.15,  # Bia Mesquita
+    1.48,  # Allan Nascimento
+    3.59,  # Gaston Bolanos
+    1.72   # Karol Rosa
 ]
 
 odds_fighters2 = [
-    4.61,  # Gaethje
-    1.84,  # Gane
-    3.86,  # Zahabi
-    3.72,  # Lewis
-    5.07,  # Chandler
-    3.38,  # Daukaus
-    2.24   # Garcia
+    2.24,  # Kyoji Horiguchi
+    1.30,  # Navajo Stirling
+    2.74,  # Andre Fili
+    1.59,  # Christian Rodriguez
+    4.71,  # Kevin Borjas
+    4.75,  # Melissa Mullins
+    2.46,  # Mitch Raposo
+    1.24,  # Michael Aswell Jr.
+    2.02   # Luana Santos
 ]
 
-hit = [-1, -1, -1, -1, -1, -1, -1]
+hit = [-1, -1, -1, -1, -1, -1, -1,
+      -1, -1]
 
 event_accuracy = 0
 event_roi = 0
