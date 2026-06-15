@@ -3,12 +3,14 @@ edge = -666
 min_winner_fights = 0
 min_loser_fights = 0
 
-event_date = "2026-06-14"
-event = "UFC Freedom 250"
+event_date = "2026-06-20"
+event = "UFC Fight Night: Kape vs. Horiguchi"
 
-event_fighters1 = ["Ilia Topuria", "Alex Pereira", "Sean O'Malley",  "Josh Hokit", "Mauricio Ruffy", "Bo Nickal", "Diego Lopes"] 
+event_fighters1 = ["Manel Kape", "Ion Cutelaba", "Vinicius Oliveira",  "Hyder Amil", "Andre Lima", "Bia Mesquita", "Allan Nascimento",
+                  "Gaston Bolanos", "Karol Rosa"] 
 
-event_fighters2 =   ["Justin Gaethje", "Ciryl Gane", "Aiemann Zahabi",  "Derrick Lewis", "Michael Chandler", "Kyle Daukaus", "Steve Garcia"] 
+event_fighters2 =   ["Kyoji Horiguchi", "Navajo Stirling", "Andre Fili",  "Christian Rodriguez", "Kevin Borjas", "Melissa Mullins", "Mitch Raposo",
+                  "Michael Aswell Jr.", "Luana Santos"] 
 
 odds_fighters1 = [
     1.16,  # Topuria
