@@ -31,7 +31,7 @@
         "Grappling Attack": -0.13,
         "Boxing Defense": 0.1
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Navajo Stirling",
@@ -59,7 +59,7 @@
         "Reach": 0.36,
         "Grappling Defense": -0.12
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Vinicius Oliveira",
@@ -87,7 +87,7 @@
         "Wrestling Attack": -0.44,
         "Striking Dominance (AI)": -0.38
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Christian Rodriguez",
@@ -115,7 +115,7 @@
         "Grappling Defense": -0.28,
         "Striking Dominance (AI)": -0.12
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Andre Lima",
@@ -143,7 +143,7 @@
         "Finish Rate": 0.19,
         "Reach": -0.03
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Bia Mesquita",
@@ -171,7 +171,7 @@
         "Kickboxing Attack": 0.22,
         "Striking Dominance (AI)": -0.12
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Allan Nascimento",
@@ -199,7 +199,7 @@
         "Wrestling Attack": -0.2,
         "Grappling Attack": 0
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Michael Aswell Jr.",
@@ -227,7 +227,7 @@
         "Kickboxing Attack": -0.12,
         "Reach": 0.1
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Luana Santos",
@@ -255,7 +255,7 @@
         "Striking Dominance (AI)": -0.18,
         "Reach": 0.14
       },
-      "hit": -1
+      "hit": 1
     }
   ]
 }
