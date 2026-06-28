@@ -31,7 +31,7 @@
         "Striking Dominance (AI)": -0.08,
         "Grappling Attack": -0.04
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Shara Magomedov",
@@ -59,7 +59,7 @@
         "Reach": -0.09,
         "Grappling Defense": 0.09
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Nazim Sadykhov",
@@ -87,7 +87,7 @@
         "Wrestling Defense": -0.41,
         "Reach": 0.12
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Asu Almabayev",
@@ -115,7 +115,7 @@
         "Boxing Attack": 0.18,
         "Ground Dominance (AI)": -0.12
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Ikram Aliskerov",
@@ -143,7 +143,7 @@
         "Finish Rate": -0.49,
         "Grappling Attack": -0.43
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Michal Oleksiejczuk",
@@ -171,7 +171,7 @@
         "Grappling Defense": 0.13,
         "Boxing Defense": 0.01
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Abdul Rakhman Yakhyaev",
@@ -199,7 +199,7 @@
         "Striking Dominance (AI)": -0.1,
         "Reach": 0.09
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Andrey Pulyaev",
@@ -227,7 +227,7 @@
         "Reach": 0.05,
         "Wrestling Attack": 0.04
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Javier Reyes",
@@ -255,7 +255,7 @@
         "Kickboxing Defense": -0.09,
         "Wrestling Defense": -0.01
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Jean Matsumoto",
@@ -283,7 +283,7 @@
         "Boxing Attack": 0.16,
         "Reach": -0.12
       },
-      "hit": -1
+      "hit": 1
     }
   ]
 }
