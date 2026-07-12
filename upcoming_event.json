@@ -31,7 +31,7 @@
         "Ground Dominance (AI)": 0.13,
         "Grappling Defense": 0.03
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Benoit Saint Denis",
@@ -59,7 +59,7 @@
         "Kickboxing Defense": 0.18,
         "Striking Dominance (AI)": -0.1
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Mario Bautista",
@@ -87,7 +87,7 @@
         "Striking Dominance (AI)": 0.06,
         "Kickboxing Defense": 0
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Brandon Royval",
@@ -115,7 +115,7 @@
         "Finish Rate": -0.14,
         "Reach": 0.05
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "King Green",
@@ -143,7 +143,7 @@
         "Boxing Defense": -0.11,
         "Ground Dominance (AI)": 0.02
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Robert Whittaker",
@@ -171,7 +171,7 @@
         "Boxing Defense": -0.23,
         "Kickboxing Defense": -0.04
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Adrian Yanez",
@@ -199,7 +199,7 @@
         "Grappling Defense": -0.36,
         "Wrestling Defense": 0.13
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Luke Riley",
@@ -227,7 +227,7 @@
         "Wrestling Defense": 0.12,
         "Striking Dominance (AI)": -0.11
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Tracy Cortez",
@@ -255,7 +255,7 @@
         "Wrestling Defense": 0.18,
         "Striking Dominance (AI)": -0.18
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Damian Pinas",
@@ -283,7 +283,7 @@
         "Striking Dominance (AI)": 0.22,
         "Grappling Attack": 0
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Zach Reese",
@@ -311,7 +311,7 @@
         "Reach": 0.24,
         "Grappling Defense": -0.01
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Alessandro Costa",
@@ -339,7 +339,7 @@
         "Kickboxing Defense": -0.15,
         "Grappling Attack": -0.14
       },
-      "hit": -1
+      "hit": 1
     }
   ]
 }
