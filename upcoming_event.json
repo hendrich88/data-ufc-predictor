@@ -31,7 +31,7 @@
         "Kickboxing Defense": -0.25,
         "Finish Rate": 0.14
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Christian Leroy Duncan",
@@ -59,7 +59,7 @@
         "Striking Dominance (AI)": 0.06,
         "Reach": -0.03
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Chase Hooper",
@@ -87,7 +87,7 @@
         "Striking Dominance (AI)": -0.16,
         "Kickboxing Attack": 0.12
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Fatima Kline",
@@ -115,7 +115,7 @@
         "Ground Dominance (AI)": -0.22,
         "Wrestling Defense": 0.13
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Tommy McMillen",
@@ -143,7 +143,7 @@
         "Striking Dominance (AI)": -0.35,
         "Grappling Defense": 0
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Jose Delgado",
@@ -171,7 +171,7 @@
         "Reach": 0.1,
         "Grappling Attack": -0.06
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Seokhyeon Ko",
@@ -199,7 +199,7 @@
         "Reach": -0.17,
         "Finish Rate": -0.07
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Alden Coria",
@@ -227,7 +227,7 @@
         "Reach": 0.17,
         "Grappling Defense": 0.13
       },
-      "hit": -1
+      "hit": 1
     }
   ]
 }
