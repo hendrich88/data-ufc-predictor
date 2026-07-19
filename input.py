@@ -3,39 +3,34 @@ edge = -666
 min_winner_fights = 0
 min_loser_fights = 0
 
-event_date = "2026-07-18"
-event = "UFC Fight Night: Du Plessis vs. Usman"
+event_date = "2026-07-25"
+event = "UFC Fight Night: Ankalaev vs. Guskov"
 
-event_fighters1 = ["Dricus Du Plessis", "Jared Cannonier", "Chase Hooper",  "Tabatha Ricci", "Tommy McMillen", "Austin Bashi", "Jean-Paul Lebosnoyani",
-                  "Alden Coria"] 
+event_fighters1 = ["Magomed Ankalaev", "Steve Erceg", "Islam Dulatov",  "Valter Walker", "Santiago Ponzinibbio", "Ismael Bonfim", "Nurullo Aliev"] 
 
-event_fighters2 =   ["Kamaru Usman", "Christian Leroy Duncan", "Mitch Ramirez",  "Fatima Kline", "Alberto Montes", "Jose Delgado", "Seokhyeon Ko",
-                  "Stewart Nicoll"] 
+event_fighters2 =   ["Bogdan Guskov", "Ramazan Temirov", "Wellington Turman",  "Thomas Petersen", "Sam Patterson", "Axel Sola", "Mike Davis"] 
 
 odds_fighters1 = [
-    1.33,  # Dricus Du Plessis
-    3.19,  # Jared Cannonier
-    1.26,  # Chase Hooper
-    3.32,  # Tabatha Ricci
-    1.88,  # Tommy McMillen
-    1.94,  # Austin Bashi
-    2.50,  # Jean-Paul Lebosnoyani
-    1.09,  # Alden Coria
+    1.16,  # Magomed Ankalaev
+    1.78,  # Steve Erceg
+    1.11,  # Islam Dulatov
+    1.45,  # Valter Walker
+    3.75,  # Santiago Ponzinibbio
+    2.37,  # Ismael Bonfim
+    1.61,  # Nurullo Aliev
 ]
 
 odds_fighters2 = [
-    2.96,  # Kamaru Usman
-    1.29,  # Christian Leroy Duncan
-    3.42,  # Mitch Ramirez
-    1.27,  # Fatima Kline
-    1.83,  # Alberto Montes
-    1.79,  # Jose Delgado
-    1.46,  # Seokhyeon Ko
-    5.98,  # Stewart Nicoll
+    4.59,  # Bogdan Guskov
+    1.94,  # Ramazan Temirov
+    5.33,  # Wellington Turman
+    2.52,  # Thomas Petersen
+    1.22,  # Sam Patterson
+    1.51,  # Axel Sola
+    2.19,  # Mike Davis
 ]
 
-hit = [-1, -1, -1, -1, -1, -1, -1,
-      -1]
+hit = [-1, -1, -1, -1, -1, -1, -1,]
 
 event_accuracy = 0
 event_roi = 0
