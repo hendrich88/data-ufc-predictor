@@ -31,7 +31,7 @@
         "Kickboxing Defense": 0.38,
         "Reach": 0
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Steve Erceg",
@@ -59,35 +59,7 @@
         "Striking Dominance (AI)": -0.28,
         "Kickboxing Defense": 0.09
       },
-      "hit": -1
-    },
-    {
-      "winner": "Islam Dulatov",
-      "win_prob": "66.8%",
-      "win_odds": "90.1%",
-      "loser": "Wellington Turman",
-      "lose_prob": "33.2%",
-      "lose_odds": "18.8%",
-      "fair_odds": 1.5,
-      "edge": "-25.9%",
-      "shap_groups": {
-        "Wrestling Attack": -3.96,
-        "Ranking (AI)": 3.25,
-        "Boxing Attack": 3.21,
-        "Complex Dominance (AI)": 2.88,
-        "Boxing Defense": -1.94,
-        "Ground Dominance (AI)": 1.65,
-        "Kickboxing Attack": 1.49,
-        "Kickboxing Defense": 1.38,
-        "Age Index (AI)": 1.28,
-        "Finish Rate": 1,
-        "Wrestling Defense": -0.79,
-        "Striking Dominance (AI)": -0.54,
-        "Grappling Attack": -0.51,
-        "Grappling Defense": -0.33,
-        "Reach": -0.05
-      },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Valter Walker",
@@ -115,7 +87,7 @@
         "Grappling Defense": -0.25,
         "Kickboxing Defense": 0.07
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Sam Patterson",
@@ -143,7 +115,7 @@
         "Finish Rate": 0.2,
         "Striking Dominance (AI)": -0.14
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Axel Sola",
@@ -171,7 +143,7 @@
         "Striking Dominance (AI)": -0.13,
         "Wrestling Defense": -0.08
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Nurullo Aliev",
@@ -199,7 +171,7 @@
         "Boxing Defense": 0.16,
         "Ground Dominance (AI)": 0.03
       },
-      "hit": -1
+      "hit": 1
     }
   ]
 }
