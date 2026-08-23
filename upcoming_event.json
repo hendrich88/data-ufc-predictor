@@ -31,7 +31,7 @@
         "Wrestling Defense": -0.1,
         "Reach": -0.09
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Vitor Petrino",
@@ -59,7 +59,7 @@
         "Reach": 0.11,
         "Wrestling Attack": 0.08
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Reinier de Ridder",
@@ -87,7 +87,7 @@
         "Kickboxing Defense": 0.06,
         "Finish Rate": 0.03
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Mason Jones",
@@ -115,7 +115,7 @@
         "Reach": 0.21,
         "Ranking (AI)": 0.17
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Carli Judice",
@@ -143,7 +143,7 @@
         "Reach": 0.1,
         "Grappling Defense": -0.06
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Kennedy Nzechukwu",
@@ -171,7 +171,7 @@
         "Boxing Defense": 0.14,
         "Striking Dominance (AI)": -0.13
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Jackson McVey",
@@ -199,7 +199,7 @@
         "Ground Dominance (AI)": -0.13,
         "Reach": 0.1
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Chris Padilla",
@@ -227,7 +227,7 @@
         "Boxing Attack": -0.14,
         "Reach": -0.09
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Lerryan Douglas",
@@ -255,7 +255,7 @@
         "Ground Dominance (AI)": -0.04,
         "Grappling Defense": -0.01
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Shanelle Dyer",
@@ -283,7 +283,7 @@
         "Striking Dominance (AI)": -0.07,
         "Wrestling Defense": -0.01
       },
-      "hit": -1
+      "hit": 1
     }
   ]
 }
