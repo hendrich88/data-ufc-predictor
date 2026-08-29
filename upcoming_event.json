@@ -31,7 +31,7 @@
         "Grappling Defense": -0.55,
         "Reach": 0.12
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Denise Gomes",
@@ -59,7 +59,7 @@
         "Reach": 0.1,
         "Striking Dominance (AI)": -0.09
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Aoriqileng",
@@ -87,7 +87,7 @@
         "Finish Rate": -0.19,
         "Reach": -0.19
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Sumudaerji",
@@ -115,7 +115,7 @@
         "Finish Rate": 0.01,
         "Striking Dominance (AI)": -0.01
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Namsrai Batbayar",
@@ -143,7 +143,7 @@
         "Reach": 0.22,
         "Wrestling Defense": 0.2
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Rei Tsuruya",
@@ -171,7 +171,7 @@
         "Boxing Attack": 0.11,
         "Grappling Defense": -0.1
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Sean Woodson",
@@ -199,7 +199,7 @@
         "Grappling Defense": -0.23,
         "Wrestling Defense": -0.03
       },
-      "hit": -1
+      "hit": 1
     }
   ]
 }
