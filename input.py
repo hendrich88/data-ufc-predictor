@@ -3,41 +3,45 @@ edge = -666
 min_winner_fights = 0
 min_loser_fights = 0
 
-event_date = "2026-09-05"
-event = "UFC Fight Night: Hooker vs. Parnasse"
+event_date = "2026-09-12"
+event = "Noche UFC: Silva vs. Delgado"
 
-event_fighters1 = ["Fares Ziam", "Michael Page", "Daniil Donchenko",  "Morgan Charriere", "Mario Pinto",  "Kurtis Campbell", "Oumar Sy",
-                   "Nora Cornolle"] # "Nathaniel Wood",
+event_fighters1 = ["Jean Silva", "Brandon Moreno", "Tommy McMillen",  "Manon Fiorot", "Waldo Cortes Acosta",  "David Martinez", "Tim Elliott",
+                   "Ignacio Bahamondes", "Yousri Belgaroui", "Drakkar Klose",  "Rafa Garcia"] 
 
-event_fighters2 =   ["Axel Sola", "Nursulton Ruziboev", "Punahele Soriano",  "Felipe Lima", "Ryan Spann",  "Trevor Peek", "Modestas Bukauskas",
-                   "Klaudia Sygula"] # "Mairon Santos",
+event_fighters2 =   ["Jose Delgado", "Joseph Morales", "Marwan Rahiki",  "Alexa Grasso", "Curtis Blaydes",  "Dan Ige", "Edgar Chairez",
+                   "Muslim Salikhov", "Djorden Santos", "Tommy Gantt",  "Rongzhu"] 
 
 odds_fighters1 = [
-    1.62,  # Fares Ziam
-    1.56,  # Michael Page
-    1.41,  # Daniil Donchenko
-    2.40,  # Morgan Charriere
-    1.35,  # Mario Pinto
-    1.30,  # Kurtis Campbell
-    1.51,  # Oumar Sy
-    # Nathaniel Wood – kurz není v dodaném výpisu
-    1.72,  # Nora Cornolle
+    1.20,  # Jean Silva
+    1.96,  # Brandon Moreno
+    1.57,  # Tommy McMillen
+    1.37,  # Manon Fiorot
+    1.46,  # Waldo Cortes Acosta
+    1.25,  # David Martinez
+    2.57,  # Tim Elliott
+    1.14,  # Ignacio Bahamondes
+    1.11,  # Yousri Belgaroui
+    3.98,  # Drakkar Klose
+    2.39,  # Rafa Garcia
 ]
 
 odds_fighters2 = [
-    2.18,  # Axel Sola
-    2.28,  # Nursulton Ruziboev
-    2.63,  # Punahele Soriano
-    1.50,  # Felipe Lima
-    2.89,  # Ryan Spann
-    3.13,  # Trevor Peek
-    2.38,  # Modestas Bukauskas
-    # Mairon Santos – kurz není v dodaném výpisu
-    2.02,  # Klaudia Sygula
+    3.95,  # Jose Delgado
+    1.77,  # Joseph Morales
+    2.27,  # Marwan Rahiki
+    2.78,  # Alexa Grasso
+    2.50,  # Curtis Blaydes
+    3.49,  # Dan Ige
+    1.43,  # Edgar Chairez
+    4.79,  # Muslim Salikhov
+    5.45,  # Djorden Santos
+    1.20,  # Tommy Gantt
+    1.50,  # Rongzhu
 ]
 
 hit = [-1, -1, -1, -1, -1, -1, -1,
-      -1]
+      -1, -1, -1, -1]
 
 event_accuracy = 0
 event_roi = 0
