@@ -31,7 +31,7 @@
         "Wrestling Defense": -0.15,
         "Kickboxing Defense": 0.09
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Brandon Moreno",
@@ -59,7 +59,7 @@
         "Wrestling Defense": 0.31,
         "Reach": 0.15
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Marwan Rahiki",
@@ -87,7 +87,7 @@
         "Striking Dominance (AI)": -0.26,
         "Reach": -0.09
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Manon Fiorot",
@@ -115,7 +115,7 @@
         "Reach": 0.2,
         "Finish Rate": -0.05
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Curtis Blaydes",
@@ -143,7 +143,7 @@
         "Kickboxing Defense": 0.11,
         "Ground Dominance (AI)": -0.09
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "David Martinez",
@@ -171,7 +171,7 @@
         "Grappling Defense": -0.11,
         "Wrestling Attack": -0.08
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Tim Elliott",
@@ -199,7 +199,7 @@
         "Ground Dominance (AI)": 0.49,
         "Kickboxing Defense": -0.02
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Ignacio Bahamondes",
@@ -227,7 +227,7 @@
         "Finish Rate": -0.28,
         "Wrestling Defense": 0.09
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Yousri Belgaroui",
@@ -255,7 +255,7 @@
         "Reach": 0.18,
         "Wrestling Defense": -0.08
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Tommy Gantt",
@@ -283,7 +283,7 @@
         "Striking Dominance (AI)": -0.16,
         "Ground Dominance (AI)": -0.14
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Rongzhu",
@@ -311,7 +311,7 @@
         "Wrestling Defense": 0.23,
         "Reach": 0.18
       },
-      "hit": -1
+      "hit": 1
     }
   ]
 }
