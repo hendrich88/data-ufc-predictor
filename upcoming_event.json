@@ -31,7 +31,7 @@
         "Reach": -0.13,
         "Ground Dominance (AI)": -0.09
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Arman Tsarukyan",
@@ -59,7 +59,7 @@
         "Boxing Defense": 0.16,
         "Grappling Attack": 0.09
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Dooho Choi",
@@ -87,7 +87,7 @@
         "Finish Rate": -0.29,
         "Grappling Defense": -0.13
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Renato Moicano",
@@ -143,7 +143,7 @@
         "Grappling Defense": -0.06,
         "Reach": 0
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Charles Jourdain",
@@ -171,7 +171,7 @@
         "Wrestling Defense": 0.11,
         "Reach": 0.03
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Tai Tuivasa",
@@ -199,7 +199,7 @@
         "Grappling Attack": 0.25,
         "Striking Dominance (AI)": -0.19
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Michael Aswell Jr.",
@@ -227,7 +227,7 @@
         "Reach": -0.12,
         "Striking Dominance (AI)": -0.02
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Ryan Gandra",
@@ -255,7 +255,7 @@
         "Ground Dominance (AI)": 0.26,
         "Finish Rate": 0.17
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Edmen Shahbazyan",
@@ -283,7 +283,7 @@
         "Reach": 0.06,
         "Kickboxing Defense": 0
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Casey O'Neill",
@@ -311,7 +311,7 @@
         "Wrestling Defense": -0.4,
         "Finish Rate": 0.09
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Joanderson Brito",
@@ -339,7 +339,7 @@
         "Ground Dominance (AI)": 0.12,
         "Grappling Defense": -0.02
       },
-      "hit": -1
+      "hit": 1
     }
   ]
 }
