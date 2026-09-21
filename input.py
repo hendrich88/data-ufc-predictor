@@ -4,7 +4,7 @@ min_winner_fights = 0
 min_loser_fights = 0
 
 event_date = "2026-09-26"
-event = "UFC 331: Van vs. Pantoja 2"
+event = "UFC Fight Night: Rosas Jr. vs. Barcelos"
 
 event_fighters1 = ["Raul Rosas Jr.", "Rodolfo Vieira", "Brady Hiestand", "Montel Jackson",  "Norma Dumont", "John Castaneda", "Mickey Gall",
                    "Vanessa Demopoulos"] 
