@@ -31,7 +31,7 @@
         "Ground Dominance (AI)": 0.1,
         "Wrestling Defense": 0.01
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Payton Talbott",
@@ -59,7 +59,7 @@
         "Grappling Defense": -0.16,
         "Finish Rate": 0.05
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "King Green",
@@ -87,7 +87,7 @@
         "Wrestling Attack": 0.09,
         "Reach": 0.08
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Ateba Gautier",
@@ -115,7 +115,7 @@
         "Grappling Defense": -0.26,
         "Striking Dominance (AI)": 0.01
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Imanol Rodriguez",
@@ -143,7 +143,7 @@
         "Reach": -0.21,
         "Striking Dominance (AI)": -0.18
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Damian Pinas",
@@ -171,7 +171,7 @@
         "Grappling Attack": 0.47,
         "Reach": 0.04
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Benardo Sopaj",
@@ -227,7 +227,7 @@
         "Striking Dominance (AI)": -0.17,
         "Finish Rate": -0.13
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Rafael Dos Anjos",
@@ -255,7 +255,7 @@
         "Ground Dominance (AI)": -0.17,
         "Finish Rate": -0.1
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Marvin Vettori",
@@ -283,7 +283,7 @@
         "Reach": -0.35,
         "Kickboxing Attack": -0.27
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Eric Nolan",
@@ -311,7 +311,7 @@
         "Reach": -0.07,
         "Wrestling Defense": 0.06
       },
-      "hit": -1
+      "hit": 1
     }
   ]
 }
