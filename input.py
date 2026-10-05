@@ -3,45 +3,45 @@ edge = -666
 min_winner_fights = 0
 min_loser_fights = 0
 
-event_date = "2026-10-03"
-event = "UFC 332: Silva vs. Wang"
+event_date = "2026-10-10"
+event = "UFC Fight Night: Allen vs. Duncan"
 
-event_fighters1 = ["Natalia Silva", "Deiveson Figueiredo", "King Green", "Ateba Gautier",  "Imanol Rodriguez", "Damian Pinas", "Marcus McGhee",
-                   "Johnny Walker", "Rafael Dos Anjos", "Marvin Vettori", "Court McGee"] 
+event_fighters1 = ["Brendan Allen", "Matheus Camilo", "Loopy Godinez", "Andre Fili",  "Julius Walker", "Malcolm Wellmaker", "Francisco Prado",
+                   "Niko Price", "Felipe Franco", "Alice Pereira", "Ernesta Kareckaite"] 
 
-event_fighters2 =   ["Wang Cong", "Payton Talbott", "Esteban Ribovics", "Roman Kopylov",  "Alden Coria", "Andrey Pulyaev", "Benardo Sopaj",
-                   "Mick Parkin", "Alexander Hernandez", "Ismail Naurdiev", "Eric Nolan"]  
+event_fighters2 =   ["Christian Leroy Duncan", "Jai Herbert", "Ketlen Souza", "Kai Kamaka III",  "Gerald Meerschaert", "Otari Tanzilovi", "Ismael Bonfim",
+                   "Leon Shahbazyan", "Brendson Ribeiro", "Daria Zhelezniakova", "Melissa Gatto"] 
 
 odds_fighters1 = [
-    1.47,  # Natalia Silva
-    4.84,  # Deiveson Figueiredo
-    2.81,  # King Green
-    1.44,  # Ateba Gautier
-    1.57,  # Imanol Rodriguez
-    1.18,  # Damian Pinas
-    1.65,  # Marcus McGhee
-    1.70,  # Johnny Walker
-    2.68,  # Rafael Dos Anjos
-    2.03,  # Marvin Vettori
-    2.87,  # Court McGee
+    1.71,  # Brendan Allen[cite: 1]
+    1.49,  # Matheus Camilo[cite: 1]
+    1.41,  # Loopy Godinez[cite: 1]
+    1.62,  # Andre Fili[cite: 1]
+    1.33,  # Julius Walker[cite: 2]
+    1.41,  # Malcolm Wellmaker[cite: 2]
+    1.95,  # Francisco Prado[cite: 2]
+    2.23,  # Niko Price[cite: 3]
+    1.25,  # Felipe Franco[cite: 3]
+    1.68,  # Alice Pereira[cite: 3]
+    2.00,  # Ernesta Kareckaite[cite: 3]
 ]
 
 odds_fighters2 = [
-    2.46,  # Wang Cong
-    1.14,  # Payton Talbott
-    1.36,  # Esteban Ribovics
-    2.54,  # Roman Kopylov
-    2.25,  # Alden Coria
-    4.30,  # Andrey Pulyaev
-    2.12,  # Benardo Sopaj
-    1.70,  # Mick Parkin
-    1.40,  # Alexander Hernandez
-    1.71,  # Ismail Naurdiev
-    1.35,  # Eric Nolan
+    2.04,  # Christian Leroy Duncan[cite: 1]
+    2.43,  # Jai Herbert[cite: 1]
+    2.65,  # Ketlen Souza[cite: 1]
+    2.17,  # Kai Kamaka III[cite: 1]
+    2.96,  # Gerald Meerschaert[cite: 2]
+    2.65,  # Otari Tanzilovi[cite: 2]
+    1.77,  # Ismael Bonfim[cite: 2]
+    1.58,  # Leon Shahbazyan[cite: 3]
+    3.49,  # Brendson Ribeiro[cite: 3]
+    2.07,  # Daria Zhelezniakova[cite: 3]
+    1.74,  # Melissa Gatto[cite: 3]
 ]
 
 hit = [-1, -1, -1, -1, -1, -1, -1,
-      -1, -1, -1, -1]
+       -1, -1, -1, -1]
 
 event_accuracy = 0
 event_roi = 0
