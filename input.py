@@ -3,36 +3,41 @@ edge = -666
 min_winner_fights = 0
 min_loser_fights = 0
 
-event_date = "2026-10-17"
-event = "UFC Fight Night: Buckley vs. Malott"
+event_date = "2026-10-24"
+event = "UFC 333: Volkanovski vs. Evloev"
 
-event_fighters1 = ["Joaquin Buckley", "Erin Blanchfield", "Kyle Nelson", "Marc-Andre Barriault",  "Mandel Nallo", "Tanner Boser", "Melissa Croden",
-                   ] 
+event_fighters1 = ["Alexander Volkanovski", "Petr Yan", "Lone'er Kavanagh", "Alexander Volkov",  "Aaron Pico", "Azamat Murzakanov", "Nikita Krylov",
+                   "Abus Magomedov", "Grant Dawson"] 
 
-event_fighters2 =   ["Mike Malott", "Jasmine Jasudavicius", "Cristian Perez", "Kyle Daukaus",  "Nate Landwehr", "Jhonata Diniz", "Chelsea Chandler",
-                   ]  
+event_fighters2 =   ["Movsar Evloev", "Merab Dvalishvili", "Ramazan Temirov", "Rizvan Kuniev",  "Losene Keita", "Dominick Reyes", "Abdul Rakhman Yakhyaev",
+                   "Cam Rowston", "Nurullo Aliev"]  
 
 odds_fighters1 = [
-    2.01,  # Joaquin Buckley vs. Mike Malott
-    1.29,  # Erin Blanchfield vs. Jasmine Jasudavicius
-    3.13,  # Kyle Nelson vs. Cristian Perez
-    2.52,  # Marc-Andre Barriault vs. Kyle Daukaus
-    1.33,  # Mandel Nallo vs. Nate Landwehr
-    2.79,  # Tanner Boser vs. Jhonata Diniz
-    1.34,  # Melissa Croden vs. Chelsea Chandler
+    1.87,  # Alexander Volkanovski
+    1.55,  # Petr Yan
+    1.82,  # Lone'er Kavanagh
+    1.80,  # Alexander Volkov
+    1.88,  # Aaron Pico
+    1.41,  # Azamat Murzakanov
+    4.04,  # Nikita Krylov
+    1.85,  # Abus Magomedov
+    1.84,  # Grant Dawson
 ]
 
 odds_fighters2 = [
-    1.73,  # Mike Malott vs. Joaquin Buckley
-    3.21,  # Jasmine Jasudavicius vs. Erin Blanchfield
-    1.30,  # Cristian Perez vs. Kyle Nelson
-    1.45,  # Kyle Daukaus vs. Marc-Andre Barriault
-    2.98,  # Nate Landwehr vs. Mandel Nallo
-    1.37,  # Jhonata Diniz vs. Tanner Boser
-    2.93,  # Chelsea Chandler vs. Melissa Croden
+    1.84,  # Movsar Evloev
+    2.30,  # Merab Dvalishvili
+    1.90,  # Ramazan Temirov
+    1.92,  # Rizvan Kuniev
+    1.84,  # Losene Keita
+    2.65,  # Dominick Reyes
+    1.20,  # Abdul Rakhman Yakhyaev
+    1.87,  # Cam Rowston
+    1.88,  # Nurullo Aliev
 ]
 
-hit = [-1, -1, -1, -1, -1, -1, -1]
+hit = [-1, -1, -1, -1, -1, -1, -1,
+      -1, -1]
 
 event_accuracy = 0
 event_roi = 0
