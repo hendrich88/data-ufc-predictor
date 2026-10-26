@@ -3,41 +3,34 @@ edge = -666
 min_winner_fights = 0
 min_loser_fights = 0
 
-event_date = "2026-10-24"
-event = "UFC 333: Volkanovski vs. Evloev"
+event_date = "2026-10-31"
+event = "UFC Fight Night: Moicano vs. Nolan"
 
-event_fighters1 = ["Alexander Volkanovski", "Petr Yan", "Lone'er Kavanagh", "Alexander Volkov",  "Aaron Pico", "Azamat Murzakanov", "Nikita Krylov",
-                   "Abus Magomedov", "Grant Dawson"] 
+event_fighters1 = ["Renato Moicano", "Randy Brown", "Ode Osbourne", "Yana Santos",  "Julian Erosa", "Talita Alencar", "Zach Reese"] 
 
-event_fighters2 =   ["Movsar Evloev", "Merab Dvalishvili", "Ramazan Temirov", "Rizvan Kuniev",  "Losene Keita", "Dominick Reyes", "Abdul Rakhman Yakhyaev",
-                   "Cam Rowston", "Nurullo Aliev"]  
+event_fighters2 =   ["Tom Nolan", "Jacobe Smith", "Cody Durden", "Luana Santos", "JeongYeong Lee", "Piera Rodriguez", "Mickey Gall"]   
 
 odds_fighters1 = [
-    1.87,  # Alexander Volkanovski
-    1.55,  # Petr Yan
-    1.82,  # Lone'er Kavanagh
-    1.80,  # Alexander Volkov
-    1.88,  # Aaron Pico
-    1.41,  # Azamat Murzakanov
-    4.04,  # Nikita Krylov
-    1.85,  # Abus Magomedov
-    1.84,  # Grant Dawson
+    1.86,  # Renato Moicano
+    2.68,  # Randy Brown
+    1.83,  # Ode Osbourne
+    2.87,  # Yana Santos
+    2.35,  # Julian Erosa
+    2.99,  # Talita Alencar
+    1.33,  # Zach Reese
 ]
 
 odds_fighters2 = [
-    1.84,  # Movsar Evloev
-    2.30,  # Merab Dvalishvili
-    1.90,  # Ramazan Temirov
-    1.92,  # Rizvan Kuniev
-    1.84,  # Losene Keita
-    2.65,  # Dominick Reyes
-    1.20,  # Abdul Rakhman Yakhyaev
-    1.87,  # Cam Rowston
-    1.88,  # Nurullo Aliev
+    1.86,  # Tom Nolan
+    1.40,  # Jacobe Smith
+    1.88,  # Cody Durden
+    1.35,  # Luana Santos
+    1.52,  # JeongYeong Lee
+    1.33,  # Piera Rodriguez
+    2.96,  # Mickey Gall
 ]
 
-hit = [-1, -1, -1, -1, -1, -1, -1,
-      -1, -1]
+hit = [-1, -1, -1, -1, -1, -1, -1]
 
 event_accuracy = 0
 event_roi = 0
