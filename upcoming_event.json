@@ -31,7 +31,7 @@
         "Kickboxing Attack": -0.27,
         "Reach": -0.08
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Merab Dvalishvili",
@@ -59,7 +59,7 @@
         "Ground Dominance (AI)": -0.1,
         "Finish Rate": 0.05
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Lone'er Kavanagh",
@@ -87,7 +87,7 @@
         "Finish Rate": -0.25,
         "Grappling Attack": 0.05
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Rizvan Kuniev",
@@ -115,7 +115,7 @@
         "Striking Dominance (AI)": -0.54,
         "Grappling Defense": -0.27
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Aaron Pico",
@@ -143,7 +143,7 @@
         "Grappling Attack": 0.08,
         "Finish Rate": -0.07
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Azamat Murzakanov",
@@ -171,7 +171,7 @@
         "Grappling Defense": -0.32,
         "Wrestling Defense": -0.01
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Abdul Rakhman Yakhyaev",
@@ -199,7 +199,7 @@
         "Grappling Attack": -0.11,
         "Reach": 0.07
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Cam Rowston",
@@ -227,7 +227,7 @@
         "Wrestling Defense": -0.3,
         "Reach": 0.15
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Nurullo Aliev",
@@ -255,7 +255,7 @@
         "Striking Dominance (AI)": -0.09,
         "Reach": 0.07
       },
-      "hit": -1
+      "hit": 0
     }
   ]
 }
