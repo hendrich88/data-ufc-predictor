@@ -25,7 +25,7 @@ odds_fighters1 = [
 ]
 
 odds_fighters2 = [
-    None,  # Johnny Walker – zápas není ve výpisu
+    1.82,  # Johnny Walker – zápas není ve výpisu
     2.38,  # Virna Jandiroba
     1.40,  # Elijah Smith
     4.76,  # Wellington Turman
