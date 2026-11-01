@@ -31,7 +31,7 @@
         "Grappling Defense": -0.22,
         "Reach": 0.06
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Jacobe Smith",
@@ -59,7 +59,7 @@
         "Grappling Defense": -0.23,
         "Striking Dominance (AI)": -0.18
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Ode Osbourne",
@@ -87,7 +87,7 @@
         "Grappling Attack": 0.58,
         "Grappling Defense": -0.06
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Luana Santos",
@@ -115,7 +115,7 @@
         "Boxing Attack": -0.25,
         "Reach": -0.13
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "JeongYeong Lee",
@@ -143,7 +143,7 @@
         "Grappling Defense": 0.05,
         "Striking Dominance (AI)": 0.04
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Piera Rodriguez",
@@ -171,7 +171,7 @@
         "Complex Dominance (AI)": 0.18,
         "Ground Dominance (AI)": -0.09
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Zach Reese",
@@ -199,7 +199,7 @@
         "Ground Dominance (AI)": 0.12,
         "Reach": 0.05
       },
-      "hit": -1
+      "hit": 1
     }
   ]
 }
