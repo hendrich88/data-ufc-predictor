@@ -3,8 +3,36 @@
   "event": "UFC Fight Night: Cortes Acosta vs. Walker",
   "event_accuracy": 0,
   "event_roi": 0,
-  "event_fights": 8,
+  "event_fights": 9,
   "fights": [
+    {
+      "winner": "Waldo Cortes Acosta",
+      "win_prob": "68.6%",
+      "win_odds": "54.9%",
+      "loser": "Johnny Walker",
+      "lose_prob": "31.4%",
+      "lose_odds": "54.9%",
+      "fair_odds": 1.46,
+      "edge": "24.8%",
+      "shap_groups": {
+        "Boxing Attack": 6.54,
+        "Ranking (AI)": 3.6,
+        "Complex Dominance (AI)": 2.79,
+        "Kickboxing Defense": -1.76,
+        "Grappling Attack": -1.63,
+        "Ground Dominance (AI)": -1.44,
+        "Reach": -1.23,
+        "Kickboxing Attack": 0.88,
+        "Age Index (AI)": -0.8,
+        "Wrestling Attack": -0.77,
+        "Finish Rate": 0.73,
+        "Striking Dominance (AI)": -0.22,
+        "Boxing Defense": 0.13,
+        "Grappling Defense": -0.07,
+        "Wrestling Defense": -0.04
+      },
+      "hit": -1
+    },
     {
       "winner": "Virna Jandiroba",
       "win_prob": "59.3%",
