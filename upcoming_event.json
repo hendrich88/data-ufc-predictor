@@ -8,10 +8,10 @@
     {
       "winner": "Waldo Cortes Acosta",
       "win_prob": "68.6%",
-      "win_odds": "54.9%",
+      "win_odds": "67.6%",
       "loser": "Johnny Walker",
       "lose_prob": "31.4%",
-      "lose_odds": "54.9%",
+      "lose_odds": "41.0%",
       "fair_odds": 1.46,
       "edge": "24.8%",
       "shap_groups": {
