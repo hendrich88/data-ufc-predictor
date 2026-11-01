@@ -3,34 +3,41 @@ edge = -666
 min_winner_fights = 0
 min_loser_fights = 0
 
-event_date = "2026-10-31"
-event = "UFC Fight Night: Moicano vs. Nolan"
+event_date = "2026-11-07"
+event = "UFC Fight Night: Cortes Acosta vs. Walker"
 
-event_fighters1 = ["Renato Moicano", "Randy Brown", "Ode Osbourne", "Yana Santos",  "Julian Erosa", "Talita Alencar", "Zach Reese"] 
+event_fighters1 = ["Waldo Cortes Acosta", "Tatiana Suarez", "Davey Grant", "Seokhyeon Ko",  "Billy Elekana", "Mantas Kondratavicius", "Karine Silva",
+                  "Jose Delano", "Jonny Parsons"] 
 
-event_fighters2 =   ["Tom Nolan", "Jacobe Smith", "Cody Durden", "Luana Santos", "JeongYeong Lee", "Piera Rodriguez", "Mickey Gall"]   
+event_fighters2 =   ["Johnny Walker", "Virna Jandiroba", "Elijah Smith", "Wellington Turman",  "Lucas Fernando", "Andre Petroski", "Gabriella Fernandes",
+                  "Murtazali Magomedov", "Jose Souza"]  
 
 odds_fighters1 = [
-    1.86,  # Renato Moicano
-    2.68,  # Randy Brown
-    1.83,  # Ode Osbourne
-    2.87,  # Yana Santos
-    2.35,  # Julian Erosa
-    2.99,  # Talita Alencar
-    1.33,  # Zach Reese
+    1.82,  # Waldo Cortes Acosta
+    1.51,  # Tatiana Suarez
+    2.68,  # Davey Grant
+    1.15,  # Seokhyeon Ko
+    2.83,  # Billy Elekana
+    1.30,  # Mantas Kondratavicius
+    1.58,  # Karine Silva
+    1.82,  # Jose Delano
+    1.51,  # Jonny Parsons
 ]
 
 odds_fighters2 = [
-    1.86,  # Tom Nolan
-    1.40,  # Jacobe Smith
-    1.88,  # Cody Durden
-    1.35,  # Luana Santos
-    1.52,  # JeongYeong Lee
-    1.33,  # Piera Rodriguez
-    2.96,  # Mickey Gall
+    None,  # Johnny Walker – zápas není ve výpisu
+    2.38,  # Virna Jandiroba
+    1.40,  # Elijah Smith
+    4.76,  # Wellington Turman
+    1.36,  # Lucas Fernando
+    3.14,  # Andre Petroski
+    2.23,  # Gabriella Fernandes
+    1.90,  # Murtazali Magomedov
+    2.37,  # Jose Souza
 ]
 
-hit = [-1, -1, -1, -1, -1, -1, -1]
+hit = [-1, -1, -1, -1, -1, -1, -1,
+      -1, -1]
 
 event_accuracy = 0
 event_roi = 0
