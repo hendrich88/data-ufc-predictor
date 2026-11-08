@@ -31,7 +31,7 @@
         "Grappling Defense": -0.07,
         "Wrestling Defense": -0.04
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Virna Jandiroba",
@@ -59,7 +59,7 @@
         "Reach": 0.11,
         "Wrestling Defense": 0.01
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Elijah Smith",
@@ -87,7 +87,7 @@
         "Ground Dominance (AI)": 0.06,
         "Grappling Defense": 0.03
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Seokhyeon Ko",
@@ -115,7 +115,7 @@
         "Grappling Defense": -0.21,
         "Reach": -0.05
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Lucas Fernando",
@@ -143,7 +143,7 @@
         "Wrestling Defense": 0.32,
         "Reach": 0.28
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Mantas Kondratavicius",
@@ -171,7 +171,7 @@
         "Striking Dominance (AI)": 0.24,
         "Grappling Defense": 0.19
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Karine Silva",
@@ -199,7 +199,7 @@
         "Reach": 0.12,
         "Boxing Attack": 0.12
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Jose Delano",
@@ -227,7 +227,7 @@
         "Grappling Attack": 0.06,
         "Reach": 0.02
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Jose Souza",
@@ -255,7 +255,7 @@
         "Wrestling Attack": -0.15,
         "Ground Dominance (AI)": 0.11
       },
-      "hit": -1
+      "hit": 1
     }
   ]
 }
