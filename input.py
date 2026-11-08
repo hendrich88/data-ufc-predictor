@@ -3,41 +3,47 @@ edge = -666
 min_winner_fights = 0
 min_loser_fights = 0
 
-event_date = "2026-11-07"
-event = "UFC Fight Night: Cortes Acosta vs. Walker"
+event_date = "2026-11-14"
+event = "UFC 334: Gane vs. Hokit"
 
-event_fighters1 = ["Waldo Cortes Acosta", "Tatiana Suarez", "Davey Grant", "Seokhyeon Ko",  "Billy Elekana", "Mantas Kondratavicius", "Karine Silva",
-                  "Jose Delano", "Jonny Parsons"] 
+event_fighters1 = ["Ciryl Gane", "Kayla Harrison", "Caio Borralho", "Uros Medic",  "Bilal Hasan", "Stephen Thompson", "Drew Dober",
+                  "Jim Miller", "Donte Johnson", "Jared Gordon", "Macy Chiasson",  "Alatengheili"] 
 
-event_fighters2 =   ["Johnny Walker", "Virna Jandiroba", "Elijah Smith", "Wellington Turman",  "Lucas Fernando", "Andre Petroski", "Gabriella Fernandes",
-                  "Murtazali Magomedov", "Jose Souza"]  
+event_fighters2 =   ["Josh Hokit", "Amanda Nunes", "Yousri Belgaroui", "Kevin Holland",  "Luis Gurule", "Charles Radtke", "Chris Duncan",
+                  "Terrance McKinney", "Cesar Almeida", "Melquizael Costa", "Bia Mesquita",  "Juan Diaz"] 
 
 odds_fighters1 = [
-    1.82,  # Waldo Cortes Acosta
-    1.51,  # Tatiana Suarez
-    2.68,  # Davey Grant
-    1.15,  # Seokhyeon Ko
-    2.83,  # Billy Elekana
-    1.30,  # Mantas Kondratavicius
-    1.58,  # Karine Silva
-    1.82,  # Jose Delano
-    1.51,  # Jonny Parsons
+    1.40,  # Ciryl Gane
+    1.50,  # Kayla Harrison
+    1.58,  # Caio Borralho
+    1.56,  # Uros Medic
+    1.10,  # Bilal Hasan
+    1.80,  # Stephen Thompson
+    2.05,  # Drew Dober
+    2.52,  # Jim Miller
+    1.60,  # Donte Johnson
+    3.48,  # Jared Gordon
+    2.40,  # Macy Chiasson
+    5.50,  # Alatengheili
 ]
 
 odds_fighters2 = [
-    1.82,  # Johnny Walker – zápas není ve výpisu
-    2.38,  # Virna Jandiroba
-    1.40,  # Elijah Smith
-    4.76,  # Wellington Turman
-    1.36,  # Lucas Fernando
-    3.14,  # Andre Petroski
-    2.23,  # Gabriella Fernandes
-    1.90,  # Murtazali Magomedov
-    2.37,  # Jose Souza
+    2.67,  # Josh Hokit
+    2.40,  # Amanda Nunes
+    2.25,  # Yousri Belgaroui
+    2.27,  # Kevin Holland
+    5.70,  # Luis Gurule
+    1.92,  # Charles Radtke
+    1.70,  # Chris Duncan
+    1.45,  # Terrance McKinney
+    2.21,  # Cesar Almeida
+    1.25,  # Melquizael Costa
+    1.50,  # Bia Mesquita
+    1.15,  # Juan Diaz
 ]
 
 hit = [-1, -1, -1, -1, -1, -1, -1,
-      -1, -1]
+      -1, -1, -1, -1, -1]
 
 event_accuracy = 0
 event_roi = 0
