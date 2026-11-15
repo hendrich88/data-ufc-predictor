@@ -31,7 +31,7 @@
         "Grappling Attack": -0.21,
         "Ground Dominance (AI)": 0.02
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Kayla Harrison",
@@ -59,7 +59,7 @@
         "Wrestling Defense": -0.64,
         "Finish Rate": -0.53
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Caio Borralho",
@@ -87,7 +87,7 @@
         "Grappling Defense": -0.29,
         "Finish Rate": -0.19
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Uros Medic",
@@ -143,7 +143,7 @@
         "Ground Dominance (AI)": 0.06,
         "Kickboxing Defense": 0.02
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Charles Radtke",
@@ -171,7 +171,7 @@
         "Grappling Defense": 0.11,
         "Boxing Defense": -0.02
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Chris Duncan",
@@ -199,7 +199,7 @@
         "Grappling Attack": -0.27,
         "Ground Dominance (AI)": 0.19
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Terrance McKinney",
@@ -227,7 +227,7 @@
         "Kickboxing Defense": 0.18,
         "Grappling Defense": 0.16
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Donte Johnson",
@@ -255,7 +255,7 @@
         "Reach": 0.07,
         "Wrestling Attack": -0.07
       },
-      "hit": -1
+      "hit": 0
     },
     {
       "winner": "Melquizael Costa",
@@ -283,7 +283,7 @@
         "Kickboxing Defense": -0.57,
         "Grappling Defense": -0.55
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Bia Mesquita",
@@ -311,7 +311,7 @@
         "Ranking (AI)": 0.75,
         "Grappling Defense": -0.46
       },
-      "hit": -1
+      "hit": 1
     },
     {
       "winner": "Juan Diaz",
@@ -339,7 +339,7 @@
         "Grappling Defense": -0.11,
         "Ground Dominance (AI)": -0.1
       },
-      "hit": -1
+      "hit": 1
     }
   ]
 }
