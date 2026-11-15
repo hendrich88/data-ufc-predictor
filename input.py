@@ -3,47 +3,45 @@ edge = -666
 min_winner_fights = 0
 min_loser_fights = 0
 
-event_date = "2026-11-14"
-event = "UFC 334: Gane vs. Hokit"
+event_date = "2026-11-21"
+event = "UFC Fight Night: Prochazka vs. Stirling"
 
-event_fighters1 = ["Ciryl Gane", "Kayla Harrison", "Caio Borralho", "Uros Medic",  "Bilal Hasan", "Stephen Thompson", "Drew Dober",
-                  "Jim Miller", "Donte Johnson", "Jared Gordon", "Macy Chiasson",  "Alatengheili"] 
+event_fighters1 = ["Jiri Prochazka", "Aljamain Sterling", "Dan Hooker", "Kyoji Horiguchi",  "Jared Cannonier", "Aleksandre Topuria", "Shamil Gaziev",
+                  "Amir Albazi", "Nikolas Motta", "Diyar Nurgozhay"] 
 
-event_fighters2 =   ["Josh Hokit", "Amanda Nunes", "Yousri Belgaroui", "Kevin Holland",  "Luis Gurule", "Charles Radtke", "Chris Duncan",
-                  "Terrance McKinney", "Cesar Almeida", "Melquizael Costa", "Bia Mesquita",  "Juan Diaz"] 
+event_fighters2 =   ["Navajo Stirling", "Kevin Vallejos", "Brian Ortega", "Asu Almabayev",  "Ikram Aliskerov", "Santiago Luna", "Tallison Teixeira",
+                  "Alessandro Costa", "Dom Mar Fan", "Alik Lorenz"] 
+
+# ["", "", "", "", "", "", "7", "", "", "", "", "", "", ""]
 
 odds_fighters1 = [
-    1.40,  # Ciryl Gane
-    1.50,  # Kayla Harrison
-    1.58,  # Caio Borralho
-    1.56,  # Uros Medic
-    1.10,  # Bilal Hasan
-    1.80,  # Stephen Thompson
-    2.05,  # Drew Dober
-    2.52,  # Jim Miller
-    1.60,  # Donte Johnson
-    3.48,  # Jared Gordon
-    2.40,  # Macy Chiasson
-    5.50,  # Alatengheili
+    1.89,  # Jiri Prochazka
+    2.04,  # Aljamain Sterling
+    1.59,  # Dan Hooker
+    1.45,  # Kyoji Horiguchi
+    3.42,  # Jared Cannonier
+    1.40,  # Aleksandre Topuria
+    1.43,  # Shamil Gaziev
+    2.02,  # Amir Albazi
+    2.12,  # Nikolas Motta
+    1.35,  # Diyar Nurgozhay
 ]
 
 odds_fighters2 = [
-    2.67,  # Josh Hokit
-    2.40,  # Amanda Nunes
-    2.25,  # Yousri Belgaroui
-    2.27,  # Kevin Holland
-    5.70,  # Luis Gurule
-    1.92,  # Charles Radtke
-    1.70,  # Chris Duncan
-    1.45,  # Terrance McKinney
-    2.21,  # Cesar Almeida
-    1.25,  # Melquizael Costa
-    1.50,  # Bia Mesquita
-    1.15,  # Juan Diaz
+    1.83,  # Navajo Stirling
+    1.70,  # Kevin Vallejos
+    2.22,  # Brian Ortega
+    2.51,  # Asu Almabayev
+    1.26,  # Ikram Aliskerov
+    2.68,  # Santiago Luna
+    2.57,  # Tallison Teixeira
+    1.72,  # Alessandro Costa
+    1.65,  # Dom Mar Fan
+    2.87,  # Alik Lorenz
 ]
 
 hit = [-1, -1, -1, -1, -1, -1, -1,
-      -1, -1, -1, -1, -1]
+      -1, -1, -1]
 
 event_accuracy = 0
 event_roi = 0
